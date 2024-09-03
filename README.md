@@ -1,0 +1,1 @@
+Results from stock-analyzer screener
