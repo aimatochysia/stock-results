@@ -1,0 +1,2 @@
+date,close,volume,relative_volume,ma_alignment,price_vs_sma_50_pct,rsi_14,rsi_overbought,rsi_oversold,atr_14,atr_pct,market_stage,sma_5,sma_10,sma_20,sma_50,sma_100,sma_200,sma_5_diff_pct,sma_10_diff_pct,sma_20_diff_pct,sma_50_diff_pct,sma_100_diff_pct,sma_200_diff_pct
+2025-05-19,8825.0,0,,SMA_5 > SMA_10 > SMA_20 > SMA_50 > SMA_100 > SMA_200,29.651666740123705,86.02746104252486,1,0,80.07981137043292,0.9074199588717611,uptrend,8825.0,8825.0,8825.0,6806.7,4413.1,2609.295,0.0,0.0,0.0,1.3414525206205452,1.7323851127837075,1.6460592744951485
