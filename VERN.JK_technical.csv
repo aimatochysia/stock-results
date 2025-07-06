@@ -1,2 +1,2 @@
-date,close,volume,relative_volume,ma_alignment,price_vs_sma_50_pct,rsi_14,rsi_overbought,rsi_oversold,atr_14,atr_pct,market_stage,sma_5,sma_10,sma_20,sma_50,sma_100,sma_200,sma_5_diff_pct,sma_10_diff_pct,sma_20_diff_pct,sma_50_diff_pct,sma_100_diff_pct,sma_200_diff_pct
-2025-05-20,104.0,622600,0.22165063146933436,,6.165781951817075,56.97015952885042,0,0,6.156044055944556,5.919273130715919,unknown,105.6,103.8,98.2,97.96,113.79,,0.0,0.7766990291262044,0.5117707267144223,-0.2037489812550919,-0.3677436301549708,
+date,close,volume,relative_volume,ma_alignment,price_vs_sma_50_pct,rsi_14,rsi_overbought,rsi_oversold,atr_14,atr_pct,market_stage,sma_5,sma_5_diff_pct,sma_10,sma_10_diff_pct,sma_20,sma_20_diff_pct,sma_50,sma_50_diff_pct,sma_100,sma_100_diff_pct
+2025-07-04,121.0,330900,0.11,SMA_10 > SMA_5 > SMA_20 > SMA_100 > SMA_50,12.47,56.77,0,0,6.72,5.55,unknown,122.8,-1.13,123.5,0.0,117.8,0.34,107.58,0.49,107.92,-0.08
