@@ -1,5 +1,9 @@
 {
-    "latest_levels": [],
+    "latest_levels": [
+        853.38,
+        991.23,
+        1328.06
+    ],
     "channel": {
         "start_date": "2025-02-18 00:00:00",
         "end_date": "2025-08-27 00:00:00",
