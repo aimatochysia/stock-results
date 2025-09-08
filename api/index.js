@@ -9,20 +9,19 @@ app.use(cors())
 //get latest technical indicator
 app.get('/api/technical/latest', (req, res) => {
   const folderPath = path.join(__dirname, '../technicals')
-  const files = fs
-    .readdirSync(folderPath)
-    .filter(f => f.endsWith('_technical_indicators.json'))
-    .sort()
-    .reverse()
 
-  if (files.length === 0)
-    return res.status(404).json({ error: 'No technical files found' })
+  const fileName = 'technical_indicators.json'
+  const filePath = path.join(folderPath, fileName)
 
-  const latest = path.join(folderPath, files[0])
-  const json = fs.readFileSync(latest)
+  if (!fs.existsSync(filePath)) {
+    return res.status(404).json({ error: 'technical_indicators.json file not found' })
+  }
+
+  const json = fs.readFileSync(filePath)
   res.setHeader('Content-Type', 'application/json')
   res.send(json)
 })
+
 
 //get only one levels&channels
 app.get('/api/l_and_c/:symbol', (req, res) => {
