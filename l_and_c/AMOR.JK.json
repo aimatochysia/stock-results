@@ -1,15 +1,15 @@
 {
     "latest_levels": [
-        520.72,
-        747.23,
-        980.91
+        519.32,
+        747.54,
+        978.71
     ],
     "channel": {
-        "start_date": "2025-02-27 00:00:00",
-        "end_date": "2025-09-08 00:00:00",
-        "start_upper": 580.21,
-        "start_lower": 487.81,
-        "end_upper": 546.97,
-        "end_lower": 454.58
+        "start_date": "2025-02-28 00:00:00",
+        "end_date": "2025-09-09 00:00:00",
+        "start_upper": 579.91,
+        "start_lower": 487.48,
+        "end_upper": 545.97,
+        "end_lower": 453.54
     }
 }
