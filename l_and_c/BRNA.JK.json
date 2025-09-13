@@ -4,14 +4,14 @@
         652.08,
         698.38,
         908.43,
-        975.72
+        972.93
     ],
     "channel": {
-        "start_date": "2025-03-04 00:00:00",
-        "end_date": "2025-09-11 00:00:00",
-        "start_upper": 732.8,
-        "start_lower": 608.85,
-        "end_upper": 777.24,
-        "end_lower": 653.28
+        "start_date": "2025-03-05 00:00:00",
+        "end_date": "2025-09-12 00:00:00",
+        "start_upper": 732.45,
+        "start_lower": 608.03,
+        "end_upper": 778.56,
+        "end_lower": 654.13
     }
 }

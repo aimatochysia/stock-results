@@ -7,11 +7,11 @@
         1990.02
     ],
     "channel": {
-        "start_date": "2025-03-04 00:00:00",
-        "end_date": "2025-09-11 00:00:00",
-        "start_upper": 1770.27,
-        "start_lower": 1653.54,
-        "end_upper": 1775.46,
-        "end_lower": 1658.73
+        "start_date": "2025-03-05 00:00:00",
+        "end_date": "2025-09-12 00:00:00",
+        "start_upper": 1773.09,
+        "start_lower": 1656.67,
+        "end_upper": 1773.83,
+        "end_lower": 1657.41
     }
 }
