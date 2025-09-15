@@ -49,6 +49,32 @@ app.get('/api/l_and_c', (req, res) => {
   res.json(Object.assign({}, ...result))
 })
 
+// Get all stock info (merged info.json)
+app.get('/api/info', (req, res) => {
+  const filePath = path.join(__dirname, '../info', 'info.json')
+
+  if (!fs.existsSync(filePath)) {
+    return res.status(404).json({ error: 'info.json file not found' })
+  }
+
+  const json = fs.readFileSync(filePath)
+  res.setHeader('Content-Type', 'application/json')
+  res.send(json)
+})
+
+// Get one stock info
+app.get('/api/info/:symbol', (req, res) => {
+  const symbol = req.params.symbol
+  const filePath = path.join(__dirname, '../info', `${symbol}.json`)
+
+  if (!fs.existsSync(filePath)) {
+    return res.status(404).json({ error: `Info for ${symbol} not found` })
+  }
+
+  const json = fs.readFileSync(filePath)
+  res.setHeader('Content-Type', 'application/json')
+  res.send(json)
+})
 
 if (require.main === module) {
   const PORT = process.env.PORT || 3000
