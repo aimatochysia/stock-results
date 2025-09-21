@@ -219,12 +219,12 @@
         "forwardPE": 213999.98,
         "dividendYield": null,
         "payoutRatio": 0.0,
-        "profitMargins": 0.01253,
-        "returnOnEquity": 0.0191,
-        "priceToBook": 1.4115536,
-        "earningsGrowth": 3.636,
-        "totalDebt": 2934996205568,
-        "totalCash": 463909158912,
+        "profitMargins": 0.02735,
+        "returnOnEquity": 0.041479997,
+        "priceToBook": 1.7797738,
+        "earningsGrowth": 7.553,
+        "totalDebt": 3251942719488,
+        "totalCash": 631860822016,
         "marketCap": 8707111387136
     },
     "DKHH.JK": {
@@ -574,18 +574,6 @@
         "totalDebt": 566905995264,
         "totalCash": 10799760277504,
         "marketCap": 82906139590656
-    },
-    "ELSA.JK": {
-        "forwardPE": 9.879032,
-        "dividendYield": 7.98,
-        "payoutRatio": 0.4702,
-        "profitMargins": 0.04324,
-        "returnOnEquity": 0.12633,
-        "priceToBook": 0.72205144,
-        "earningsGrowth": -0.423,
-        "totalDebt": 934185009152,
-        "totalCash": 2911351078912,
-        "marketCap": 3576264916992
     },
     "RALS.JK": {
         "forwardPE": 7.295738,
@@ -7146,7 +7134,7 @@
         "profitMargins": 0.11519,
         "returnOnEquity": 0.17205,
         "priceToBook": 3.900632,
-        "earningsGrowth": 0.615,
+        "earningsGrowth": 0.75,
         "totalDebt": 125634256896,
         "totalCash": 8957257728,
         "marketCap": 1163499929600
@@ -9697,14 +9685,14 @@
     },
     "JATI.JK": {
         "forwardPE": null,
-        "dividendYield": 0.32,
+        "dividendYield": 0.35,
         "payoutRatio": null,
-        "profitMargins": 0.01894,
-        "returnOnEquity": 0.06107,
-        "priceToBook": 2.5434506,
-        "earningsGrowth": 23.877,
-        "totalDebt": 3975260416,
-        "totalCash": 27437617152,
+        "profitMargins": 0.025940001,
+        "returnOnEquity": 0.08509,
+        "priceToBook": 2.3911312,
+        "earningsGrowth": 9.884,
+        "totalDebt": 26985994240,
+        "totalCash": 20683902976,
         "marketCap": 430652653568
     },
     "BRAM.JK": {
