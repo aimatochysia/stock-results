@@ -3,11 +3,11 @@
         9.04
     ],
     "channel": {
-        "start_date": "2025-03-25 00:00:00",
-        "end_date": "2025-10-02 00:00:00",
-        "start_upper": 3.64,
-        "start_lower": -0.54,
-        "end_upper": 27.99,
-        "end_lower": 23.81
+        "start_date": "2025-03-26 00:00:00",
+        "end_date": "2025-10-03 00:00:00",
+        "start_upper": 3.66,
+        "start_lower": -0.55,
+        "end_upper": 28.28,
+        "end_lower": 24.07
     }
 }
