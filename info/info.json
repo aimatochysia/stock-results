@@ -1,7 +1,7 @@
 {
     "MAPI.JK": {
         "forwardPE": 8.661931,
-        "dividendYield": 0.85,
+        "dividendYield": 0.84,
         "payoutRatio": 0.0721,
         "profitMargins": 0.04642,
         "returnOnEquity": 0.153,
@@ -37,7 +37,7 @@
     },
     "BIRD.JK": {
         "forwardPE": 7.632958,
-        "dividendYield": 6.69,
+        "dividendYield": 6.49,
         "payoutRatio": 0.45630002,
         "profitMargins": 0.12219,
         "returnOnEquity": 0.11377,
@@ -49,7 +49,7 @@
     },
     "ASII.JK": {
         "forwardPE": 7.6836925,
-        "dividendYield": 6.85,
+        "dividendYield": 6.88,
         "payoutRatio": 0.488,
         "profitMargins": 0.10099,
         "returnOnEquity": 0.15942,
@@ -57,11 +57,11 @@
         "earningsGrowth": 0.023,
         "totalDebt": 104353000062976,
         "totalCash": 54161001414656,
-        "marketCap": 239865048334336
+        "marketCap": 238852962779136
     },
     "ESSA.JK": {
         "forwardPE": 14.073017,
-        "dividendYield": 1.43,
+        "dividendYield": 1.45,
         "payoutRatio": 0.2611,
         "profitMargins": 0.13722,
         "returnOnEquity": 0.09884,
@@ -73,7 +73,7 @@
     },
     "UNVR.JK": {
         "forwardPE": 17.884037,
-        "dividendYield": 4.6,
+        "dividendYield": 4.63,
         "payoutRatio": 1.1,
         "profitMargins": 0.08915,
         "returnOnEquity": 1.12677,
@@ -97,7 +97,7 @@
     },
     "JPFA.JK": {
         "forwardPE": 10.118531,
-        "dividendYield": 6.48,
+        "dividendYield": 6.67,
         "payoutRatio": 0.5858,
         "profitMargins": 0.0499,
         "returnOnEquity": 0.18252,
@@ -109,7 +109,7 @@
     },
     "INDF.JK": {
         "forwardPE": 5.538419,
-        "dividendYield": 3.92,
+        "dividendYield": 3.89,
         "payoutRatio": 0.45209998,
         "profitMargins": 0.08979,
         "returnOnEquity": 0.14226,
@@ -145,7 +145,7 @@
     },
     "PWON.JK": {
         "forwardPE": 7.4074073,
-        "dividendYield": 3.51,
+        "dividendYield": 3.57,
         "payoutRatio": 0.26479998,
         "profitMargins": 0.34857,
         "returnOnEquity": 0.11314999,
@@ -157,7 +157,7 @@
     },
     "ADRO.JK": {
         "forwardPE": 3.3891084,
-        "dividendYield": 15.79,
+        "dividendYield": 15.61,
         "payoutRatio": 1.0948,
         "profitMargins": 0.41228,
         "returnOnEquity": 0.080620006,
@@ -169,7 +169,7 @@
     },
     "AMRT.JK": {
         "forwardPE": 16.23431,
-        "dividendYield": 1.78,
+        "dividendYield": 1.76,
         "payoutRatio": 0.9788,
         "profitMargins": 0.02636,
         "returnOnEquity": 0.19319999,
@@ -193,7 +193,7 @@
     },
     "BNGA.JK": {
         "forwardPE": 6.008765,
-        "dividendYield": 9.11,
+        "dividendYield": 9.16,
         "payoutRatio": 0.5696,
         "profitMargins": 0.39801997,
         "returnOnEquity": 0.13458,
@@ -241,7 +241,7 @@
     },
     "TAPG.JK": {
         "forwardPE": 10.906515,
-        "dividendYield": 9.87,
+        "dividendYield": 9.92,
         "payoutRatio": 0.78760004,
         "profitMargins": 0.34658,
         "returnOnEquity": 0.36464,
@@ -253,7 +253,7 @@
     },
     "BBNI.JK": {
         "forwardPE": 5.885405,
-        "dividendYield": 9.12,
+        "dividendYield": 9.42,
         "payoutRatio": 0.66800004,
         "profitMargins": 0.41474998,
         "returnOnEquity": 0.132,
@@ -265,7 +265,7 @@
     },
     "ITMG.JK": {
         "forwardPE": 5.534347,
-        "dividendYield": 15.47,
+        "dividendYield": 15.25,
         "payoutRatio": 0.71800005,
         "profitMargins": 0.15454,
         "returnOnEquity": 0.18696,
@@ -289,7 +289,7 @@
     },
     "PTBA.JK": {
         "forwardPE": 5.8203516,
-        "dividendYield": 14.21,
+        "dividendYield": 13.97,
         "payoutRatio": 0.9806,
         "profitMargins": 0.08959,
         "returnOnEquity": 0.19969,
@@ -325,7 +325,7 @@
     },
     "PPRI.JK": {
         "forwardPE": null,
-        "dividendYield": 0.24,
+        "dividendYield": 0.21,
         "payoutRatio": null,
         "profitMargins": 0.02933,
         "returnOnEquity": 0.04739,
@@ -337,7 +337,7 @@
     },
     "TKIM.JK": {
         "forwardPE": null,
-        "dividendYield": 0.36,
+        "dividendYield": 0.35,
         "payoutRatio": 0.026600001,
         "profitMargins": 0.18827,
         "returnOnEquity": 0.067140006,
@@ -361,7 +361,7 @@
     },
     "HUMI.JK": {
         "forwardPE": null,
-        "dividendYield": 0.82,
+        "dividendYield": 0.85,
         "payoutRatio": 0.1017,
         "profitMargins": 0.084309995,
         "returnOnEquity": 0.07792,
@@ -373,7 +373,7 @@
     },
     "CMRY.JK": {
         "forwardPE": 20.852018,
-        "dividendYield": 3.14,
+        "dividendYield": 3.23,
         "payoutRatio": 0.6957,
         "profitMargins": 0.17531,
         "returnOnEquity": 0.27188,
@@ -397,7 +397,7 @@
     },
     "MEDC.JK": {
         "forwardPE": 4.328376,
-        "dividendYield": 2.67,
+        "dividendYield": 2.73,
         "payoutRatio": 0.31190002,
         "profitMargins": 0.08762,
         "returnOnEquity": 0.09378,
@@ -405,11 +405,11 @@
         "earningsGrowth": -0.844,
         "totalDebt": 3735874816,
         "totalCash": 835312896,
-        "marketCap": 37641575727104
+        "marketCap": 36777670737920
     },
     "PNBN.JK": {
         "forwardPE": 9.702335,
-        "dividendYield": 4.04,
+        "dividendYield": 4.08,
         "payoutRatio": 0.0,
         "profitMargins": 0.30089,
         "returnOnEquity": 0.05258,
@@ -421,7 +421,7 @@
     },
     "ISAT.JK": {
         "forwardPE": 9.759647,
-        "dividendYield": 4.42,
+        "dividendYield": 4.31,
         "payoutRatio": 0.59900004,
         "profitMargins": 0.081999995,
         "returnOnEquity": 0.13774,
@@ -457,7 +457,7 @@
     },
     "MYOR.JK": {
         "forwardPE": 13.411515,
-        "dividendYield": 2.51,
+        "dividendYield": 2.56,
         "payoutRatio": 0.5046,
         "profitMargins": 0.06506,
         "returnOnEquity": 0.15286,
@@ -481,7 +481,7 @@
     },
     "RAJA.JK": {
         "forwardPE": null,
-        "dividendYield": 1.15,
+        "dividendYield": 1.06,
         "payoutRatio": 0.6877,
         "profitMargins": 0.08744001,
         "returnOnEquity": 0.14838,
@@ -513,11 +513,11 @@
         "earningsGrowth": null,
         "totalDebt": 120864669696,
         "totalCash": 1456935680,
-        "marketCap": 308535263232
+        "marketCap": 308535296000
     },
     "MAPA.JK": {
         "forwardPE": 8.884039,
-        "dividendYield": 0.73,
+        "dividendYield": 0.7,
         "payoutRatio": 0.1,
         "profitMargins": 0.07901,
         "returnOnEquity": 0.19961001,
@@ -541,7 +541,7 @@
     },
     "ACES.JK": {
         "forwardPE": 7.4151435,
-        "dividendYield": 7.91,
+        "dividendYield": 7.95,
         "payoutRatio": 0.7108,
         "profitMargins": 0.09398,
         "returnOnEquity": 0.13334,
@@ -553,7 +553,7 @@
     },
     "ASSA.JK": {
         "forwardPE": 20.629883,
-        "dividendYield": 7.02,
+        "dividendYield": 7.1,
         "payoutRatio": 0.5756,
         "profitMargins": 0.0591,
         "returnOnEquity": 0.16403,
@@ -577,7 +577,7 @@
     },
     "TLKM.JK": {
         "forwardPE": 11.642603,
-        "dividendYield": 7.06,
+        "dividendYield": 6.99,
         "payoutRatio": 0.9221,
         "profitMargins": 0.15482001,
         "returnOnEquity": 0.1992,
@@ -589,7 +589,7 @@
     },
     "UNTR.JK": {
         "forwardPE": 5.151299,
-        "dividendYield": 7.93,
+        "dividendYield": 8.01,
         "payoutRatio": 0.4309,
         "profitMargins": 0.13095,
         "returnOnEquity": 0.19302,
@@ -625,7 +625,7 @@
     },
     "SMDR.JK": {
         "forwardPE": null,
-        "dividendYield": 3.76,
+        "dividendYield": 3.71,
         "payoutRatio": 0.00029999999,
         "profitMargins": 0.07255,
         "returnOnEquity": 0.12617,
@@ -637,7 +637,7 @@
     },
     "SMBR.JK": {
         "forwardPE": null,
-        "dividendYield": 0.91,
+        "dividendYield": 0.92,
         "payoutRatio": 0.1301,
         "profitMargins": 0.085760005,
         "returnOnEquity": 0.062329996,
@@ -673,7 +673,7 @@
     },
     "INKP.JK": {
         "forwardPE": 5.1720276,
-        "dividendYield": 0.67,
+        "dividendYield": 0.64,
         "payoutRatio": 0.0544,
         "profitMargins": 0.09797,
         "returnOnEquity": 0.048249997,
@@ -721,7 +721,7 @@
     },
     "DGWG.JK": {
         "forwardPE": null,
-        "dividendYield": 2.37,
+        "dividendYield": 2.36,
         "payoutRatio": 0.26590002,
         "profitMargins": 0.05628,
         "returnOnEquity": 0.23507,
@@ -733,7 +733,7 @@
     },
     "INDY.JK": {
         "forwardPE": 6.7561398,
-        "dividendYield": 0.67,
+        "dividendYield": 0.71,
         "payoutRatio": 2.9857998,
         "profitMargins": -0.00393,
         "returnOnEquity": 0.00593,
@@ -781,7 +781,7 @@
     },
     "HRTA.JK": {
         "forwardPE": 6.44659,
-        "dividendYield": 1.98,
+        "dividendYield": 2.03,
         "payoutRatio": 0.16530001,
         "profitMargins": 0.02337,
         "returnOnEquity": 0.24869,
@@ -817,7 +817,7 @@
     },
     "ICBP.JK": {
         "forwardPE": 9.772958,
-        "dividendYield": 2.75,
+        "dividendYield": 2.82,
         "payoutRatio": 0.5777,
         "profitMargins": 0.123950005,
         "returnOnEquity": 0.16001,
@@ -829,7 +829,7 @@
     },
     "RATU.JK": {
         "forwardPE": 997500.0,
-        "dividendYield": 0.45,
+        "dividendYield": 0.4,
         "payoutRatio": 0.4715,
         "profitMargins": 0.2571,
         "returnOnEquity": 0.45409,
@@ -865,7 +865,7 @@
     },
     "SGRO.JK": {
         "forwardPE": 29.402641,
-        "dividendYield": 6.76,
+        "dividendYield": 6.96,
         "payoutRatio": 0.5323,
         "profitMargins": 0.16768,
         "returnOnEquity": 0.18419,
@@ -877,7 +877,7 @@
     },
     "SGER.JK": {
         "forwardPE": null,
-        "dividendYield": 10.76,
+        "dividendYield": 10.95,
         "payoutRatio": 0.4573,
         "profitMargins": 0.02712,
         "returnOnEquity": 0.14152001,
@@ -889,7 +889,7 @@
     },
     "BBCA.JK": {
         "forwardPE": 15.337423,
-        "dividendYield": 3.97,
+        "dividendYield": 4.05,
         "payoutRatio": 0.6494,
         "profitMargins": 0.51932,
         "returnOnEquity": 0.22678,
@@ -913,7 +913,7 @@
     },
     "HGII.JK": {
         "forwardPE": null,
-        "dividendYield": 0.42,
+        "dividendYield": 0.41,
         "payoutRatio": null,
         "profitMargins": 0.30694,
         "returnOnEquity": 0.037639998,
@@ -961,7 +961,7 @@
     },
     "SMRA.JK": {
         "forwardPE": 7.077465,
-        "dividendYield": 2.21,
+        "dividendYield": 2.24,
         "payoutRatio": 0.13229999,
         "profitMargins": 0.11785,
         "returnOnEquity": 0.109639995,
@@ -973,7 +973,7 @@
     },
     "BBTN.JK": {
         "forwardPE": 4.1712136,
-        "dividendYield": 4.34,
+        "dividendYield": 4.52,
         "payoutRatio": 0.2339,
         "profitMargins": 0.22017999,
         "returnOnEquity": 0.09889,
@@ -1033,7 +1033,7 @@
     },
     "BFIN.JK": {
         "forwardPE": 6.7264576,
-        "dividendYield": 8.31,
+        "dividendYield": 8.53,
         "payoutRatio": 0.5505,
         "profitMargins": 0.37298,
         "returnOnEquity": 0.16253,
@@ -1057,7 +1057,7 @@
     },
     "JSMR.JK": {
         "forwardPE": 7.4678464,
-        "dividendYield": 4.09,
+        "dividendYield": 4.13,
         "payoutRatio": 0.2793,
         "profitMargins": 0.14209,
         "returnOnEquity": 0.10446999,
@@ -1153,7 +1153,7 @@
     },
     "WIFI.JK": {
         "forwardPE": 12.186047,
-        "dividendYield": 0.06,
+        "dividendYield": 0.05,
         "payoutRatio": 0.0124,
         "profitMargins": 0.42134997,
         "returnOnEquity": 0.24219999,
@@ -1177,7 +1177,7 @@
     },
     "MTEL.JK": {
         "forwardPE": 20.014046,
-        "dividendYield": 3.15,
+        "dividendYield": 3.17,
         "payoutRatio": 0.696,
         "profitMargins": 0.22673,
         "returnOnEquity": 0.06504,
@@ -1189,7 +1189,7 @@
     },
     "PGEO.JK": {
         "forwardPE": 23.32641,
-        "dividendYield": 3.67,
+        "dividendYield": 3.64,
         "payoutRatio": 1.0545,
         "profitMargins": 0.32626,
         "returnOnEquity": 0.0684,
@@ -1201,7 +1201,7 @@
     },
     "CUAN.JK": {
         "forwardPE": null,
-        "dividendYield": 0.03,
+        "dividendYield": 0.02,
         "payoutRatio": 0.0161,
         "profitMargins": 0.13955,
         "returnOnEquity": 0.31469,
@@ -1213,7 +1213,7 @@
     },
     "BRIS.JK": {
         "forwardPE": 14.481582,
-        "dividendYield": 0.85,
+        "dividendYield": 0.87,
         "payoutRatio": 0.1429,
         "profitMargins": 0.32604,
         "returnOnEquity": 0.16431,
@@ -1225,7 +1225,7 @@
     },
     "CPIN.JK": {
         "forwardPE": 20.589388,
-        "dividendYield": 2.22,
+        "dividendYield": 2.28,
         "payoutRatio": 0.46150002,
         "profitMargins": 0.056900002,
         "returnOnEquity": 0.131,
@@ -1237,7 +1237,7 @@
     },
     "SIDO.JK": {
         "forwardPE": 13.095535,
-        "dividendYield": 8.08,
+        "dividendYield": 8.0,
         "payoutRatio": 1.0036,
         "profitMargins": 0.30198,
         "returnOnEquity": 0.34175,
@@ -1261,7 +1261,7 @@
     },
     "TOWR.JK": {
         "forwardPE": 7.3591256,
-        "dividendYield": 3.0,
+        "dividendYield": 3.03,
         "payoutRatio": 0.2338,
         "profitMargins": 0.26066,
         "returnOnEquity": 0.18271999,
@@ -1309,7 +1309,7 @@
     },
     "SRTG.JK": {
         "forwardPE": 12.425829,
-        "dividendYield": 0.82,
+        "dividendYield": 0.83,
         "payoutRatio": 0.052699998,
         "profitMargins": 0.82317,
         "returnOnEquity": 0.07677,
@@ -1333,7 +1333,7 @@
     },
     "CTRA.JK": {
         "forwardPE": 7.4502625,
-        "dividendYield": 2.61,
+        "dividendYield": 2.68,
         "payoutRatio": 0.19049999,
         "profitMargins": 0.19384001,
         "returnOnEquity": 0.1034,
@@ -1345,7 +1345,7 @@
     },
     "INTP.JK": {
         "forwardPE": 12.556146,
-        "dividendYield": 4.11,
+        "dividendYield": 4.21,
         "payoutRatio": 0.42299998,
         "profitMargins": 0.11205,
         "returnOnEquity": 0.09721,
@@ -1357,7 +1357,7 @@
     },
     "LPPF.JK": {
         "forwardPE": 4.6968403,
-        "dividendYield": 18.75,
+        "dividendYield": 18.81,
         "payoutRatio": 0.83800006,
         "profitMargins": 0.13321,
         "returnOnEquity": 3.31298,
@@ -1369,7 +1369,7 @@
     },
     "NCKL.JK": {
         "forwardPE": 10.244252,
-        "dividendYield": 2.69,
+        "dividendYield": 2.65,
         "payoutRatio": 0.469,
         "profitMargins": 0.27163,
         "returnOnEquity": 0.26277,
@@ -1393,7 +1393,7 @@
     },
     "BBRI.JK": {
         "forwardPE": 8.473614,
-        "dividendYield": 10.8,
+        "dividendYield": 11.17,
         "payoutRatio": 0.91330004,
         "profitMargins": 0.42362,
         "returnOnEquity": 0.18075001,
@@ -1489,7 +1489,7 @@
     },
     "INCO.JK": {
         "forwardPE": 22.319452,
-        "dividendYield": 1.2,
+        "dividendYield": 1.18,
         "payoutRatio": 0.7443,
         "profitMargins": 0.0509,
         "returnOnEquity": 0.01685,
@@ -1513,7 +1513,7 @@
     },
     "DSNG.JK": {
         "forwardPE": 11.7556925,
-        "dividendYield": 1.35,
+        "dividendYield": 1.34,
         "payoutRatio": 0.16360001,
         "profitMargins": 0.13523,
         "returnOnEquity": 0.15666,
@@ -1525,7 +1525,7 @@
     },
     "BTPS.JK": {
         "forwardPE": 7.628752,
-        "dividendYield": 2.45,
+        "dividendYield": 2.49,
         "payoutRatio": 0.23,
         "profitMargins": 0.30696,
         "returnOnEquity": 0.12473,
@@ -1549,7 +1549,7 @@
     },
     "AKRA.JK": {
         "forwardPE": 7.8307705,
-        "dividendYield": 8.85,
+        "dividendYield": 9.05,
         "payoutRatio": 0.8217,
         "profitMargins": 0.05789,
         "returnOnEquity": 0.18115,
@@ -1561,7 +1561,7 @@
     },
     "ADMR.JK": {
         "forwardPE": 7.9595633,
-        "dividendYield": 3.68,
+        "dividendYield": 3.49,
         "payoutRatio": 0.368,
         "profitMargins": 0.33134,
         "returnOnEquity": 0.2298,
@@ -1573,7 +1573,7 @@
     },
     "PART.JK": {
         "forwardPE": null,
-        "dividendYield": 1.64,
+        "dividendYield": 1.44,
         "payoutRatio": null,
         "profitMargins": 0.08627,
         "returnOnEquity": null,
@@ -1585,7 +1585,7 @@
     },
     "EXCL.JK": {
         "forwardPE": 16.081959,
-        "dividendYield": 3.32,
+        "dividendYield": 3.17,
         "payoutRatio": 0.3827,
         "profitMargins": -0.01179,
         "returnOnEquity": -0.01353,
@@ -1597,7 +1597,7 @@
     },
     "MIKA.JK": {
         "forwardPE": 26.321354,
-        "dividendYield": 1.76,
+        "dividendYield": 1.73,
         "payoutRatio": 0.5044,
         "profitMargins": 0.2378,
         "returnOnEquity": 0.17837,
@@ -1621,7 +1621,7 @@
     },
     "SOLA.JK": {
         "forwardPE": null,
-        "dividendYield": 0.41,
+        "dividendYield": 0.38,
         "payoutRatio": null,
         "profitMargins": 0.11294,
         "returnOnEquity": 0.14137,
@@ -1645,7 +1645,7 @@
     },
     "TOBA.JK": {
         "forwardPE": 193571.42,
-        "dividendYield": 1.51,
+        "dividendYield": 1.47,
         "payoutRatio": 0.0,
         "profitMargins": -0.30781,
         "returnOnEquity": -0.30723,
@@ -1681,7 +1681,7 @@
     },
     "AUTO.JK": {
         "forwardPE": 5.918303,
-        "dividendYield": 7.97,
+        "dividendYield": 7.84,
         "payoutRatio": 0.4668,
         "profitMargins": 0.10065,
         "returnOnEquity": 0.13667,
@@ -1693,7 +1693,7 @@
     },
     "SMGR.JK": {
         "forwardPE": 8.0527315,
-        "dividendYield": 3.73,
+        "dividendYield": 3.71,
         "payoutRatio": 2.4671001,
         "profitMargins": 0.0073,
         "returnOnEquity": 0.00643,
@@ -1717,7 +1717,7 @@
     },
     "CLEO.JK": {
         "forwardPE": 9.597637,
-        "dividendYield": 0.49,
+        "dividendYield": 0.48,
         "payoutRatio": 0.135,
         "profitMargins": 0.16008,
         "returnOnEquity": 0.23933001,
@@ -1729,7 +1729,7 @@
     },
     "ANTM.JK": {
         "forwardPE": 23.35756,
-        "dividendYield": 4.71,
+        "dividendYield": 4.59,
         "payoutRatio": 0.5369,
         "profitMargins": 0.0646,
         "returnOnEquity": null,
@@ -1741,7 +1741,7 @@
     },
     "ELSA.JK": {
         "forwardPE": 9.879032,
-        "dividendYield": 7.92,
+        "dividendYield": 7.98,
         "payoutRatio": 0.4702,
         "profitMargins": 0.04324,
         "returnOnEquity": 0.12633,
@@ -1753,7 +1753,7 @@
     },
     "BMRI.JK": {
         "forwardPE": 6.405619,
-        "dividendYield": 10.62,
+        "dividendYield": 10.97,
         "payoutRatio": 0.8104,
         "profitMargins": 0.38602,
         "returnOnEquity": 0.20247999,
@@ -1813,7 +1813,7 @@
     },
     "CFIN.JK": {
         "forwardPE": null,
-        "dividendYield": 15.72,
+        "dividendYield": 15.92,
         "payoutRatio": 1.1922001,
         "profitMargins": 0.28323,
         "returnOnEquity": 0.029579999,
@@ -1861,7 +1861,7 @@
     },
     "BDKR.JK": {
         "forwardPE": null,
-        "dividendYield": 0.56,
+        "dividendYield": 0.57,
         "payoutRatio": 4.8076997,
         "profitMargins": -0.00995,
         "returnOnEquity": -0.00548,
@@ -1885,7 +1885,7 @@
     },
     "BIKE.JK": {
         "forwardPE": null,
-        "dividendYield": 1.55,
+        "dividendYield": 1.62,
         "payoutRatio": null,
         "profitMargins": 0.03628,
         "returnOnEquity": 0.12254,
@@ -1945,7 +1945,7 @@
     },
     "HOKI.JK": {
         "forwardPE": null,
-        "dividendYield": 1.23,
+        "dividendYield": 1.25,
         "payoutRatio": 0.3086,
         "profitMargins": -0.02651,
         "returnOnEquity": -0.04797,
@@ -1957,7 +1957,7 @@
     },
     "MPMX.JK": {
         "forwardPE": 6.590541,
-        "dividendYield": 12.9,
+        "dividendYield": 12.83,
         "payoutRatio": 1.0435,
         "profitMargins": 0.032479998,
         "returnOnEquity": 0.08444,
@@ -1993,7 +1993,7 @@
     },
     "GPRA.JK": {
         "forwardPE": null,
-        "dividendYield": 3.88,
+        "dividendYield": 3.91,
         "payoutRatio": 0.0,
         "profitMargins": 0.26668,
         "returnOnEquity": 0.09276,
@@ -2065,7 +2065,7 @@
     },
     "BPFI.JK": {
         "forwardPE": null,
-        "dividendYield": 3.03,
+        "dividendYield": 3.07,
         "payoutRatio": 0.318,
         "profitMargins": 0.27803,
         "returnOnEquity": 0.07362,
@@ -2089,14 +2089,14 @@
     },
     "FWCT.JK": {
         "forwardPE": null,
-        "dividendYield": 6.83,
+        "dividendYield": 7.01,
         "payoutRatio": null,
-        "profitMargins": 0.04167,
-        "returnOnEquity": 0.17857,
-        "priceToBook": 0.87873465,
-        "earningsGrowth": -0.546,
-        "totalDebt": 221887873024,
-        "totalCash": 6385274368,
+        "profitMargins": 0.055320002,
+        "returnOnEquity": 0.25258,
+        "priceToBook": 0.8075592,
+        "earningsGrowth": null,
+        "totalDebt": 255629197312,
+        "totalCash": 10665567232,
         "marketCap": 308191002624
     },
     "MINE.JK": {
@@ -2125,7 +2125,7 @@
     },
     "BSSR.JK": {
         "forwardPE": null,
-        "dividendYield": 20.68,
+        "dividendYield": 20.74,
         "payoutRatio": 0.7385,
         "profitMargins": 0.12742,
         "returnOnEquity": 0.35926,
@@ -2149,7 +2149,7 @@
     },
     "WINS.JK": {
         "forwardPE": 4.652645,
-        "dividendYield": 0.49,
+        "dividendYield": 0.46,
         "payoutRatio": 0.1769,
         "profitMargins": 0.19590001,
         "returnOnEquity": 0.11557999,
@@ -2181,11 +2181,11 @@
         "earningsGrowth": null,
         "totalDebt": 40666259456,
         "totalCash": 41114157056,
-        "marketCap": 7711659917312
+        "marketCap": 7711683510272
     },
     "KLAS.JK": {
         "forwardPE": null,
-        "dividendYield": 0.76,
+        "dividendYield": 0.74,
         "payoutRatio": null,
         "profitMargins": 0.20358999,
         "returnOnEquity": 0.19437,
@@ -2197,7 +2197,7 @@
     },
     "GJTL.JK": {
         "forwardPE": 4.3449783,
-        "dividendYield": 5.08,
+        "dividendYield": 5.03,
         "payoutRatio": 0.16409999,
         "profitMargins": 0.0589,
         "returnOnEquity": 0.11414,
@@ -2209,7 +2209,7 @@
     },
     "UNTD.JK": {
         "forwardPE": null,
-        "dividendYield": 6.02,
+        "dividendYield": 5.95,
         "payoutRatio": 2.0408,
         "profitMargins": 0.03183,
         "returnOnEquity": null,
@@ -2241,7 +2241,7 @@
         "earningsGrowth": -0.495,
         "totalDebt": 3187828736,
         "totalCash": 7226477568,
-        "marketCap": 114062671872
+        "marketCap": 114062688256
     },
     "AISA.JK": {
         "forwardPE": null,
@@ -2305,7 +2305,7 @@
     },
     "WIIM.JK": {
         "forwardPE": 6.9740634,
-        "dividendYield": 5.23,
+        "dividendYield": 5.36,
         "payoutRatio": 0.4488,
         "profitMargins": 0.09653,
         "returnOnEquity": 0.16228001,
@@ -2389,7 +2389,7 @@
     },
     "MIDI.JK": {
         "forwardPE": 18.263205,
-        "dividendYield": 1.81,
+        "dividendYield": 1.8,
         "payoutRatio": 0.4014,
         "profitMargins": 0.0299,
         "returnOnEquity": 0.13611001,
@@ -2413,7 +2413,7 @@
     },
     "ASLC.JK": {
         "forwardPE": 18.26087,
-        "dividendYield": 1.15,
+        "dividendYield": 1.19,
         "payoutRatio": 0.3236,
         "profitMargins": 0.041739997,
         "returnOnEquity": 0.05953,
@@ -2473,7 +2473,7 @@
     },
     "GGRM.JK": {
         "forwardPE": 5.945577,
-        "dividendYield": 4.33,
+        "dividendYield": 4.31,
         "payoutRatio": 5.5556,
         "profitMargins": 0.00185,
         "returnOnEquity": 0.0028600001,
@@ -2497,7 +2497,7 @@
     },
     "DAAZ.JK": {
         "forwardPE": null,
-        "dividendYield": 4.25,
+        "dividendYield": 4.18,
         "payoutRatio": 0.5982,
         "profitMargins": 0.03416,
         "returnOnEquity": null,
@@ -2557,7 +2557,7 @@
     },
     "TEBE.JK": {
         "forwardPE": null,
-        "dividendYield": 2.67,
+        "dividendYield": 2.43,
         "payoutRatio": 0.3811,
         "profitMargins": 0.22966999,
         "returnOnEquity": 0.109910004,
@@ -2569,7 +2569,7 @@
     },
     "STAA.JK": {
         "forwardPE": 10.68787,
-        "dividendYield": 4.07,
+        "dividendYield": 3.81,
         "payoutRatio": 0.3957,
         "profitMargins": 0.20663999,
         "returnOnEquity": 0.31763,
@@ -2677,7 +2677,7 @@
     },
     "GEMS.JK": {
         "forwardPE": null,
-        "dividendYield": 13.64,
+        "dividendYield": 13.6,
         "payoutRatio": 1.4446001,
         "profitMargins": 0.124280006,
         "returnOnEquity": 0.4643,
@@ -2749,7 +2749,7 @@
     },
     "BDMN.JK": {
         "forwardPE": 6.6689177,
-        "dividendYield": 4.76,
+        "dividendYield": 4.8,
         "payoutRatio": 0.3314,
         "profitMargins": 0.20813,
         "returnOnEquity": 0.06731,
@@ -2785,7 +2785,7 @@
     },
     "PTPS.JK": {
         "forwardPE": null,
-        "dividendYield": 3.78,
+        "dividendYield": 3.82,
         "payoutRatio": null,
         "profitMargins": 0.44619998,
         "returnOnEquity": 0.18976,
@@ -2833,7 +2833,7 @@
     },
     "NAIK.JK": {
         "forwardPE": null,
-        "dividendYield": 2.36,
+        "dividendYield": 2.42,
         "payoutRatio": 0.2728,
         "profitMargins": 0.15889,
         "returnOnEquity": null,
@@ -2841,7 +2841,7 @@
         "earningsGrowth": -0.035,
         "totalDebt": 544743104,
         "totalCash": 34283907072,
-        "marketCap": 412583526400
+        "marketCap": 412583559168
     },
     "CMNP.JK": {
         "forwardPE": null,
@@ -2869,7 +2869,7 @@
     },
     "TMAS.JK": {
         "forwardPE": null,
-        "dividendYield": 3.03,
+        "dividendYield": 3.05,
         "payoutRatio": 0.33330002,
         "profitMargins": 0.15765001,
         "returnOnEquity": 0.27587998,
@@ -2881,7 +2881,7 @@
     },
     "TOTL.JK": {
         "forwardPE": 10.985992,
-        "dividendYield": 9.32,
+        "dividendYield": 9.38,
         "payoutRatio": 0.78150004,
         "profitMargins": 0.098400004,
         "returnOnEquity": 0.30455,
@@ -2893,7 +2893,7 @@
     },
     "OBAT.JK": {
         "forwardPE": null,
-        "dividendYield": 4.8,
+        "dividendYield": 4.76,
         "payoutRatio": null,
         "profitMargins": 0.24167,
         "returnOnEquity": 0.5393,
@@ -2977,7 +2977,7 @@
     },
     "IPCC.JK": {
         "forwardPE": 7.2222223,
-        "dividendYield": 8.89,
+        "dividendYield": 8.98,
         "payoutRatio": 0.6918,
         "profitMargins": 0.27887,
         "returnOnEquity": 0.19983,
@@ -2989,7 +2989,7 @@
     },
     "UCID.JK": {
         "forwardPE": null,
-        "dividendYield": 3.68,
+        "dividendYield": 3.71,
         "payoutRatio": 0.7665,
         "profitMargins": 0.00993,
         "returnOnEquity": 0.01544,
@@ -3013,7 +3013,7 @@
     },
     "MDLA.JK": {
         "forwardPE": null,
-        "dividendYield": 4.15,
+        "dividendYield": 3.86,
         "payoutRatio": 0.0,
         "profitMargins": 0.02369,
         "returnOnEquity": 0.16545999,
@@ -3049,7 +3049,7 @@
     },
     "ABMM.JK": {
         "forwardPE": null,
-        "dividendYield": 5.46,
+        "dividendYield": 5.5,
         "payoutRatio": 0.33200002,
         "profitMargins": 0.06696,
         "returnOnEquity": 0.092489995,
@@ -3073,7 +3073,7 @@
     },
     "EMTK.JK": {
         "forwardPE": 216.89497,
-        "dividendYield": 2.28,
+        "dividendYield": 2.32,
         "payoutRatio": 0.363,
         "profitMargins": 0.35321,
         "returnOnEquity": 0.13728,
@@ -3097,7 +3097,7 @@
     },
     "PBSA.JK": {
         "forwardPE": null,
-        "dividendYield": 5.91,
+        "dividendYield": 6.11,
         "payoutRatio": 0.6193,
         "profitMargins": 0.17289,
         "returnOnEquity": 0.40699002,
@@ -3109,7 +3109,7 @@
     },
     "ERAL.JK": {
         "forwardPE": null,
-        "dividendYield": 2.41,
+        "dividendYield": 2.31,
         "payoutRatio": 0.256,
         "profitMargins": 0.03586,
         "returnOnEquity": 0.12049,
@@ -3121,7 +3121,7 @@
     },
     "KOCI.JK": {
         "forwardPE": null,
-        "dividendYield": 3.85,
+        "dividendYield": 3.9,
         "payoutRatio": null,
         "profitMargins": 0.29285,
         "returnOnEquity": 0.15021,
@@ -3133,7 +3133,7 @@
     },
     "ULTJ.JK": {
         "forwardPE": 9.42281,
-        "dividendYield": 3.31,
+        "dividendYield": 3.32,
         "payoutRatio": 0.47869998,
         "profitMargins": 0.11577,
         "returnOnEquity": 0.13788,
@@ -3157,7 +3157,7 @@
     },
     "CNMA.JK": {
         "forwardPE": 7.0694866,
-        "dividendYield": 7.63,
+        "dividendYield": 7.69,
         "payoutRatio": 1.1921,
         "profitMargins": 0.11153,
         "returnOnEquity": 0.15405,
@@ -3169,7 +3169,7 @@
     },
     "TUGU.JK": {
         "forwardPE": null,
-        "dividendYield": 7.62,
+        "dividendYield": 7.69,
         "payoutRatio": 0.6308,
         "profitMargins": 0.12279,
         "returnOnEquity": 0.04855,
@@ -3205,7 +3205,7 @@
     },
     "PRDA.JK": {
         "forwardPE": 8.5407,
-        "dividendYield": 6.86,
+        "dividendYield": 6.81,
         "payoutRatio": 0.71839994,
         "profitMargins": 0.099750005,
         "returnOnEquity": 0.09649,
@@ -3217,7 +3217,7 @@
     },
     "BLES.JK": {
         "forwardPE": null,
-        "dividendYield": 2.16,
+        "dividendYield": 2.14,
         "payoutRatio": 0.286,
         "profitMargins": 0.07369,
         "returnOnEquity": 0.12104999,
@@ -3229,7 +3229,7 @@
     },
     "SSMS.JK": {
         "forwardPE": 31.0,
-        "dividendYield": 2.84,
+        "dividendYield": 2.77,
         "payoutRatio": 0.3987,
         "profitMargins": 0.08979,
         "returnOnEquity": 0.42053002,
@@ -3265,7 +3265,7 @@
     },
     "AVIA.JK": {
         "forwardPE": 14.923291,
-        "dividendYield": 5.19,
+        "dividendYield": 5.14,
         "payoutRatio": 0.816,
         "profitMargins": 0.21184,
         "returnOnEquity": 0.17052999,
@@ -3289,7 +3289,7 @@
     },
     "KKGI.JK": {
         "forwardPE": null,
-        "dividendYield": 8.77,
+        "dividendYield": 8.72,
         "payoutRatio": 1.989,
         "profitMargins": 0.05302,
         "returnOnEquity": 0.07034,
@@ -3301,7 +3301,7 @@
     },
     "BATR.JK": {
         "forwardPE": null,
-        "dividendYield": 1.27,
+        "dividendYield": 1.33,
         "payoutRatio": null,
         "profitMargins": 0.09698,
         "returnOnEquity": 0.08031999,
@@ -3321,11 +3321,11 @@
         "earningsGrowth": 0.19,
         "totalDebt": 1990160000,
         "totalCash": 29596708864,
-        "marketCap": 121500172288
+        "marketCap": 121500295168
     },
     "SMSM.JK": {
         "forwardPE": 9.552223,
-        "dividendYield": 7.71,
+        "dividendYield": 7.74,
         "payoutRatio": 0.70309997,
         "profitMargins": 0.20611,
         "returnOnEquity": 0.29801,
@@ -3373,7 +3373,7 @@
     },
     "HEXA.JK": {
         "forwardPE": 230000.0,
-        "dividendYield": 9.54,
+        "dividendYield": 9.44,
         "payoutRatio": 1.2429,
         "profitMargins": 0.05817,
         "returnOnEquity": 0.17781,
@@ -3481,7 +3481,7 @@
     },
     "LSIP.JK": {
         "forwardPE": 6.9848976,
-        "dividendYield": 5.0,
+        "dividendYield": 5.02,
         "payoutRatio": 0.44439998,
         "profitMargins": 0.31342,
         "returnOnEquity": 0.12991,
@@ -3489,11 +3489,11 @@
         "earningsGrowth": -0.019,
         "totalDebt": 903000000,
         "totalCash": 6509695074304,
-        "marketCap": 8865953349632
+        "marketCap": 8831853658112
     },
     "CGAS.JK": {
         "forwardPE": null,
-        "dividendYield": 1.84,
+        "dividendYield": 1.88,
         "payoutRatio": 1.2927,
         "profitMargins": 0.00847,
         "returnOnEquity": 0.0185,
@@ -3613,7 +3613,7 @@
     },
     "HAIS.JK": {
         "forwardPE": null,
-        "dividendYield": 8.13,
+        "dividendYield": 8.05,
         "payoutRatio": null,
         "profitMargins": 0.10163,
         "returnOnEquity": 0.13594,
@@ -3685,7 +3685,7 @@
     },
     "TSPC.JK": {
         "forwardPE": null,
-        "dividendYield": 5.17,
+        "dividendYield": 5.08,
         "payoutRatio": 0.42369998,
         "profitMargins": 0.09861,
         "returnOnEquity": 0.1545,
@@ -3745,7 +3745,7 @@
     },
     "AXIO.JK": {
         "forwardPE": null,
-        "dividendYield": 6.45,
+        "dividendYield": 6.35,
         "payoutRatio": null,
         "profitMargins": 0.043119997,
         "returnOnEquity": 0.11732,
@@ -3757,7 +3757,7 @@
     },
     "ZYRX.JK": {
         "forwardPE": null,
-        "dividendYield": 1.17,
+        "dividendYield": 1.16,
         "payoutRatio": null,
         "profitMargins": 0.0402,
         "returnOnEquity": 0.048779998,
@@ -3769,7 +3769,7 @@
     },
     "PBID.JK": {
         "forwardPE": null,
-        "dividendYield": 11.32,
+        "dividendYield": 11.36,
         "payoutRatio": 0.96830004,
         "profitMargins": 0.08016,
         "returnOnEquity": 0.16075,
@@ -3805,7 +3805,7 @@
     },
     "GTRA.JK": {
         "forwardPE": null,
-        "dividendYield": 0.59,
+        "dividendYield": 0.56,
         "payoutRatio": null,
         "profitMargins": 0.10045,
         "returnOnEquity": 0.15237,
@@ -3853,7 +3853,7 @@
     },
     "TOTO.JK": {
         "forwardPE": 21.889765,
-        "dividendYield": 8.7,
+        "dividendYield": 8.63,
         "payoutRatio": 0.66690004,
         "profitMargins": 0.15564999,
         "returnOnEquity": 0.1545,
@@ -3889,7 +3889,7 @@
     },
     "MBAP.JK": {
         "forwardPE": null,
-        "dividendYield": 2.34,
+        "dividendYield": 2.32,
         "payoutRatio": 0.2599,
         "profitMargins": 0.055419996,
         "returnOnEquity": 0.05598,
@@ -3901,7 +3901,7 @@
     },
     "SKRN.JK": {
         "forwardPE": null,
-        "dividendYield": 12.06,
+        "dividendYield": 12.59,
         "payoutRatio": 2.4005,
         "profitMargins": 0.28689,
         "returnOnEquity": 0.40403,
@@ -3925,7 +3925,7 @@
     },
     "LTLS.JK": {
         "forwardPE": null,
-        "dividendYield": 5.39,
+        "dividendYield": 5.33,
         "payoutRatio": 0.4098,
         "profitMargins": 0.01985,
         "returnOnEquity": 0.05567,
@@ -3973,7 +3973,7 @@
     },
     "MPXL.JK": {
         "forwardPE": null,
-        "dividendYield": 0.89,
+        "dividendYield": 0.88,
         "payoutRatio": null,
         "profitMargins": 0.00978,
         "returnOnEquity": 0.01636,
@@ -3997,7 +3997,7 @@
     },
     "CSAP.JK": {
         "forwardPE": null,
-        "dividendYield": 2.06,
+        "dividendYield": 2.03,
         "payoutRatio": 0.5864,
         "profitMargins": 0.0075199995,
         "returnOnEquity": 0.039100002,
@@ -4009,7 +4009,7 @@
     },
     "YUPI.JK": {
         "forwardPE": null,
-        "dividendYield": 10.86,
+        "dividendYield": 10.79,
         "payoutRatio": 0.0,
         "profitMargins": 0.21458,
         "returnOnEquity": null,
@@ -4045,7 +4045,7 @@
     },
     "AMAG.JK": {
         "forwardPE": null,
-        "dividendYield": 11.17,
+        "dividendYield": 11.24,
         "payoutRatio": 0.9503,
         "profitMargins": 0.19168,
         "returnOnEquity": 0.12024,
@@ -4081,7 +4081,7 @@
     },
     "PJAA.JK": {
         "forwardPE": null,
-        "dividendYield": 4.29,
+        "dividendYield": 4.17,
         "payoutRatio": 0.2727,
         "profitMargins": 0.11703,
         "returnOnEquity": 0.08154,
@@ -4141,7 +4141,7 @@
     },
     "IMAS.JK": {
         "forwardPE": 11.45631,
-        "dividendYield": 0.33,
+        "dividendYield": 0.34,
         "payoutRatio": 0.0849,
         "profitMargins": 0.008,
         "returnOnEquity": 0.02469,
@@ -4153,7 +4153,7 @@
     },
     "BBHI.JK": {
         "forwardPE": null,
-        "dividendYield": 0.69,
+        "dividendYield": 0.7,
         "payoutRatio": 0.4486,
         "profitMargins": 0.34389,
         "returnOnEquity": 0.06877,
@@ -4213,7 +4213,7 @@
     },
     "IFII.JK": {
         "forwardPE": null,
-        "dividendYield": 4.78,
+        "dividendYield": 4.82,
         "payoutRatio": 0.44799998,
         "profitMargins": 0.15659,
         "returnOnEquity": 0.16052,
@@ -4225,7 +4225,7 @@
     },
     "SBMA.JK": {
         "forwardPE": null,
-        "dividendYield": 2.94,
+        "dividendYield": 2.96,
         "payoutRatio": null,
         "profitMargins": 0.10701,
         "returnOnEquity": 0.06506,
@@ -4237,7 +4237,7 @@
     },
     "SRSN.JK": {
         "forwardPE": null,
-        "dividendYield": 1.39,
+        "dividendYield": 1.33,
         "payoutRatio": 0.23200001,
         "profitMargins": 0.02041,
         "returnOnEquity": 0.03494,
@@ -4285,7 +4285,7 @@
     },
     "MSTI.JK": {
         "forwardPE": 8.152521,
-        "dividendYield": 7.54,
+        "dividendYield": 7.4,
         "payoutRatio": 0.65569997,
         "profitMargins": 0.10103,
         "returnOnEquity": 0.29786,
@@ -4309,7 +4309,7 @@
     },
     "BNLI.JK": {
         "forwardPE": null,
-        "dividendYield": 0.55,
+        "dividendYield": 0.53,
         "payoutRatio": 0.2941,
         "profitMargins": 0.34244,
         "returnOnEquity": null,
@@ -4345,7 +4345,7 @@
     },
     "MAHA.JK": {
         "forwardPE": null,
-        "dividendYield": 8.33,
+        "dividendYield": 8.39,
         "payoutRatio": 0.9569,
         "profitMargins": 0.08212,
         "returnOnEquity": 0.11986,
@@ -4369,7 +4369,7 @@
     },
     "NRCA.JK": {
         "forwardPE": null,
-        "dividendYield": 2.42,
+        "dividendYield": 2.43,
         "payoutRatio": 0.5366,
         "profitMargins": 0.028380001,
         "returnOnEquity": 0.08144,
@@ -4401,7 +4401,7 @@
         "earningsGrowth": null,
         "totalDebt": 5857377280,
         "totalCash": 1084055168,
-        "marketCap": 156787163136
+        "marketCap": 156787195904
     },
     "FMII.JK": {
         "forwardPE": null,
@@ -4441,7 +4441,7 @@
     },
     "WTON.JK": {
         "forwardPE": 2.4235294,
-        "dividendYield": 0.74,
+        "dividendYield": 0.73,
         "payoutRatio": 0.1269,
         "profitMargins": 0.01206,
         "returnOnEquity": 0.01321,
@@ -4573,7 +4573,7 @@
     },
     "WEGE.JK": {
         "forwardPE": null,
-        "dividendYield": 0.99,
+        "dividendYield": 1.03,
         "payoutRatio": 0.1371,
         "profitMargins": 0.015520001,
         "returnOnEquity": 0.01921,
@@ -4597,7 +4597,7 @@
     },
     "ATLA.JK": {
         "forwardPE": null,
-        "dividendYield": 1.14,
+        "dividendYield": 1.17,
         "payoutRatio": 1.0208,
         "profitMargins": 0.042919997,
         "returnOnEquity": 0.02706,
@@ -4629,7 +4629,7 @@
         "earningsGrowth": null,
         "totalDebt": 0,
         "totalCash": 79490523136,
-        "marketCap": 590934114304
+        "marketCap": 590940405760
     },
     "ROTI.JK": {
         "forwardPE": 11.137574,
@@ -4645,7 +4645,7 @@
     },
     "ALII.JK": {
         "forwardPE": 9.412781,
-        "dividendYield": 0.81,
+        "dividendYield": 0.83,
         "payoutRatio": 0.22670001,
         "profitMargins": 0.33314,
         "returnOnEquity": 0.18827,
@@ -4657,7 +4657,7 @@
     },
     "ASGR.JK": {
         "forwardPE": null,
-        "dividendYield": 5.17,
+        "dividendYield": 5.43,
         "payoutRatio": 0.407,
         "profitMargins": 0.07493,
         "returnOnEquity": 0.12064,
@@ -4669,7 +4669,7 @@
     },
     "ISSP.JK": {
         "forwardPE": null,
-        "dividendYield": 3.86,
+        "dividendYield": 3.88,
         "payoutRatio": 0.4102,
         "profitMargins": 0.089940004,
         "returnOnEquity": 0.108260006,
@@ -4697,8 +4697,8 @@
         "payoutRatio": 0.0,
         "profitMargins": 0.09519,
         "returnOnEquity": null,
-        "priceToBook": -11.655831,
-        "earningsGrowth": null,
+        "priceToBook": 11.08944,
+        "earningsGrowth": -0.405,
         "totalDebt": 62330626048,
         "totalCash": 17807550464,
         "marketCap": 122413858816
@@ -4729,7 +4729,7 @@
     },
     "TBIG.JK": {
         "forwardPE": 24.63054,
-        "dividendYield": 2.56,
+        "dividendYield": 2.63,
         "payoutRatio": 0.7511,
         "profitMargins": 0.21053,
         "returnOnEquity": 0.13545,
@@ -4765,7 +4765,7 @@
     },
     "BOBA.JK": {
         "forwardPE": null,
-        "dividendYield": 5.43,
+        "dividendYield": 5.56,
         "payoutRatio": null,
         "profitMargins": 0.09581,
         "returnOnEquity": 0.1105,
@@ -4777,7 +4777,7 @@
     },
     "JKON.JK": {
         "forwardPE": null,
-        "dividendYield": 3.69,
+        "dividendYield": 3.78,
         "payoutRatio": 0.36270002,
         "profitMargins": 0.03891,
         "returnOnEquity": 0.047459997,
@@ -4837,7 +4837,7 @@
     },
     "MHKI.JK": {
         "forwardPE": null,
-        "dividendYield": 0.81,
+        "dividendYield": 0.8,
         "payoutRatio": 0.0664,
         "profitMargins": 0.19619,
         "returnOnEquity": 0.08427,
@@ -4861,7 +4861,7 @@
     },
     "DRMA.JK": {
         "forwardPE": 6.964276,
-        "dividendYield": 4.3,
+        "dividendYield": 4.32,
         "payoutRatio": 0.3468,
         "profitMargins": 0.10170999,
         "returnOnEquity": 0.25942,
@@ -4873,7 +4873,7 @@
     },
     "CHEM.JK": {
         "forwardPE": null,
-        "dividendYield": 0.77,
+        "dividendYield": 0.79,
         "payoutRatio": null,
         "profitMargins": -0.00271,
         "returnOnEquity": -0.0043200003,
@@ -4945,7 +4945,7 @@
     },
     "SICO.JK": {
         "forwardPE": null,
-        "dividendYield": 4.55,
+        "dividendYield": 4.58,
         "payoutRatio": null,
         "profitMargins": 0.086289994,
         "returnOnEquity": 0.102910005,
@@ -4993,7 +4993,7 @@
     },
     "CRSN.JK": {
         "forwardPE": null,
-        "dividendYield": 1.99,
+        "dividendYield": 2.04,
         "payoutRatio": null,
         "profitMargins": 0.05547,
         "returnOnEquity": 0.12470999,
@@ -5065,7 +5065,7 @@
     },
     "NELY.JK": {
         "forwardPE": null,
-        "dividendYield": 5.43,
+        "dividendYield": 5.56,
         "payoutRatio": null,
         "profitMargins": 0.35606,
         "returnOnEquity": 0.1988,
@@ -5149,7 +5149,7 @@
     },
     "OMED.JK": {
         "forwardPE": null,
-        "dividendYield": 1.81,
+        "dividendYield": 1.82,
         "payoutRatio": 0.0,
         "profitMargins": 0.17156,
         "returnOnEquity": 0.13704,
@@ -5161,7 +5161,7 @@
     },
     "REAL.JK": {
         "forwardPE": null,
-        "dividendYield": 0.22,
+        "dividendYield": 0.23,
         "payoutRatio": null,
         "profitMargins": 0.20728001,
         "returnOnEquity": 0.06697,
@@ -5197,7 +5197,7 @@
     },
     "PSGO.JK": {
         "forwardPE": null,
-        "dividendYield": 3.81,
+        "dividendYield": 3.64,
         "payoutRatio": 0.36220002,
         "profitMargins": 0.1696,
         "returnOnEquity": 0.17623,
@@ -5209,7 +5209,7 @@
     },
     "ACRO.JK": {
         "forwardPE": null,
-        "dividendYield": 25.69,
+        "dividendYield": 25.99,
         "payoutRatio": null,
         "profitMargins": 0.22406,
         "returnOnEquity": 0.048860002,
@@ -5269,7 +5269,7 @@
     },
     "VISI.JK": {
         "forwardPE": null,
-        "dividendYield": 0.54,
+        "dividendYield": 0.53,
         "payoutRatio": 1.2863001,
         "profitMargins": 0.00548,
         "returnOnEquity": 0.012180001,
@@ -5293,7 +5293,7 @@
     },
     "BUAH.JK": {
         "forwardPE": null,
-        "dividendYield": 1.5,
+        "dividendYield": 1.49,
         "payoutRatio": 0.5334,
         "profitMargins": 0.0144299995,
         "returnOnEquity": 0.21635,
@@ -5341,7 +5341,7 @@
     },
     "ARNA.JK": {
         "forwardPE": 7.7002053,
-        "dividendYield": 8.11,
+        "dividendYield": 8.19,
         "payoutRatio": 0.72,
         "profitMargins": 0.15065,
         "returnOnEquity": 0.25082,
@@ -5473,7 +5473,7 @@
     },
     "PNGO.JK": {
         "forwardPE": null,
-        "dividendYield": 4.71,
+        "dividendYield": 4.68,
         "payoutRatio": 0.2395,
         "profitMargins": 0.111899994,
         "returnOnEquity": 0.26132,
@@ -5485,7 +5485,7 @@
     },
     "DLTA.JK": {
         "forwardPE": null,
-        "dividendYield": 8.56,
+        "dividendYield": 8.6,
         "payoutRatio": 1.0058,
         "profitMargins": 0.21205999,
         "returnOnEquity": null,
@@ -5501,8 +5501,8 @@
         "payoutRatio": null,
         "profitMargins": -0.01582,
         "returnOnEquity": -0.01265,
-        "priceToBook": 3.7193792,
-        "earningsGrowth": -0.382,
+        "priceToBook": 3.7618368,
+        "earningsGrowth": -0.368,
         "totalDebt": 119092723712,
         "totalCash": 1587789440,
         "marketCap": 557385777152
@@ -5521,7 +5521,7 @@
     },
     "KEJU.JK": {
         "forwardPE": 20.338982,
-        "dividendYield": 1.98,
+        "dividendYield": 1.97,
         "payoutRatio": 0.4255,
         "profitMargins": 0.12837,
         "returnOnEquity": 0.24258,
@@ -5605,7 +5605,7 @@
     },
     "SUNI.JK": {
         "forwardPE": null,
-        "dividendYield": 2.52,
+        "dividendYield": 2.49,
         "payoutRatio": 0.29930001,
         "profitMargins": 0.18023,
         "returnOnEquity": 0.23652,
@@ -5689,7 +5689,7 @@
     },
     "MLIA.JK": {
         "forwardPE": null,
-        "dividendYield": 2.03,
+        "dividendYield": 2.02,
         "payoutRatio": 0.278,
         "profitMargins": 0.038399998,
         "returnOnEquity": 0.03211,
@@ -5737,7 +5737,7 @@
     },
     "SOCI.JK": {
         "forwardPE": null,
-        "dividendYield": 0.99,
+        "dividendYield": 0.96,
         "payoutRatio": 0.0586,
         "profitMargins": 0.09004,
         "returnOnEquity": 0.03701,
@@ -5833,7 +5833,7 @@
     },
     "GUNA.JK": {
         "forwardPE": null,
-        "dividendYield": 2.97,
+        "dividendYield": 2.99,
         "payoutRatio": null,
         "profitMargins": 0.04279,
         "returnOnEquity": 0.14711,
@@ -5845,7 +5845,7 @@
     },
     "AMAR.JK": {
         "forwardPE": null,
-        "dividendYield": 4.98,
+        "dividendYield": 4.61,
         "payoutRatio": 0.71919996,
         "profitMargins": 0.26138002,
         "returnOnEquity": 0.07063,
@@ -5905,7 +5905,7 @@
     },
     "TRUS.JK": {
         "forwardPE": null,
-        "dividendYield": 3.38,
+        "dividendYield": 3.39,
         "payoutRatio": null,
         "profitMargins": 0.47755,
         "returnOnEquity": 0.0659,
@@ -5917,7 +5917,7 @@
     },
     "GTSI.JK": {
         "forwardPE": null,
-        "dividendYield": 1.53,
+        "dividendYield": 1.5,
         "payoutRatio": 0.184,
         "profitMargins": 0.22893,
         "returnOnEquity": 0.13773,
@@ -6001,7 +6001,7 @@
     },
     "TOOL.JK": {
         "forwardPE": null,
-        "dividendYield": 0.31,
+        "dividendYield": 0.32,
         "payoutRatio": null,
         "profitMargins": -0.04855,
         "returnOnEquity": -0.0186,
@@ -6025,7 +6025,7 @@
     },
     "PPGL.JK": {
         "forwardPE": null,
-        "dividendYield": 11.01,
+        "dividendYield": 11.98,
         "payoutRatio": null,
         "profitMargins": 0.04032,
         "returnOnEquity": 0.0647,
@@ -6193,7 +6193,7 @@
     },
     "BELL.JK": {
         "forwardPE": null,
-        "dividendYield": 1.01,
+        "dividendYield": 1.03,
         "payoutRatio": null,
         "profitMargins": 0.010369999,
         "returnOnEquity": 0.034,
@@ -6229,7 +6229,7 @@
     },
     "VICI.JK": {
         "forwardPE": null,
-        "dividendYield": 1.61,
+        "dividendYield": 1.6,
         "payoutRatio": 0.4434,
         "profitMargins": 0.11491,
         "returnOnEquity": 0.1567,
@@ -6241,7 +6241,7 @@
     },
     "GEMA.JK": {
         "forwardPE": null,
-        "dividendYield": 2.7,
+        "dividendYield": 2.68,
         "payoutRatio": 0.0,
         "profitMargins": 0.01891,
         "returnOnEquity": 0.06884,
@@ -6313,7 +6313,7 @@
     },
     "JRPT.JK": {
         "forwardPE": 11.436171,
-        "dividendYield": 3.12,
+        "dividendYield": 3.14,
         "payoutRatio": 0.2885,
         "profitMargins": 0.38623002,
         "returnOnEquity": 0.12393,
@@ -6325,7 +6325,7 @@
     },
     "EURO.JK": {
         "forwardPE": null,
-        "dividendYield": 0.48,
+        "dividendYield": 0.45,
         "payoutRatio": null,
         "profitMargins": 0.065349996,
         "returnOnEquity": 0.02875,
@@ -6349,7 +6349,7 @@
     },
     "INCI.JK": {
         "forwardPE": null,
-        "dividendYield": 5.69,
+        "dividendYield": 5.6,
         "payoutRatio": null,
         "profitMargins": 0.05817,
         "returnOnEquity": 0.05025,
@@ -6377,7 +6377,7 @@
         "payoutRatio": null,
         "profitMargins": 0.093669996,
         "returnOnEquity": null,
-        "priceToBook": 1.4852458,
+        "priceToBook": 1.4858084,
         "earningsGrowth": 0.096,
         "totalDebt": 23523139584,
         "totalCash": 3338108672,
@@ -6409,7 +6409,7 @@
     },
     "DADA.JK": {
         "forwardPE": null,
-        "dividendYield": 0.16,
+        "dividendYield": 0.18,
         "payoutRatio": null,
         "profitMargins": 0.03235,
         "returnOnEquity": 0.00357,
@@ -6433,7 +6433,7 @@
     },
     "WGSH.JK": {
         "forwardPE": null,
-        "dividendYield": 0.42,
+        "dividendYield": 0.43,
         "payoutRatio": null,
         "profitMargins": 0.17363001,
         "returnOnEquity": 0.07946,
@@ -6505,7 +6505,7 @@
     },
     "CSRA.JK": {
         "forwardPE": null,
-        "dividendYield": 1.39,
+        "dividendYield": 1.41,
         "payoutRatio": 0.0,
         "profitMargins": 0.21066,
         "returnOnEquity": 0.22393999,
@@ -6517,7 +6517,7 @@
     },
     "LPGI.JK": {
         "forwardPE": null,
-        "dividendYield": 1.02,
+        "dividendYield": 1.03,
         "payoutRatio": 0.1304,
         "profitMargins": 0.04555,
         "returnOnEquity": 0.14917,
@@ -6529,7 +6529,7 @@
     },
     "ELPI.JK": {
         "forwardPE": null,
-        "dividendYield": 3.88,
+        "dividendYield": 3.79,
         "payoutRatio": 0.3407,
         "profitMargins": 0.25236,
         "returnOnEquity": 0.15010999,
@@ -6541,7 +6541,7 @@
     },
     "GRPM.JK": {
         "forwardPE": null,
-        "dividendYield": 1.61,
+        "dividendYield": 1.64,
         "payoutRatio": null,
         "profitMargins": 0.0024899999,
         "returnOnEquity": 0.047519997,
@@ -6549,7 +6549,7 @@
         "earningsGrowth": -0.313,
         "totalDebt": 27444000768,
         "totalCash": 5740625408,
-        "marketCap": 94249877504
+        "marketCap": 94249885696
     },
     "PEHA.JK": {
         "forwardPE": null,
@@ -6685,7 +6685,7 @@
     },
     "BISI.JK": {
         "forwardPE": null,
-        "dividendYield": 3.01,
+        "dividendYield": 3.04,
         "payoutRatio": 1.1755,
         "profitMargins": 0.07458,
         "returnOnEquity": 0.02873,
@@ -6717,11 +6717,11 @@
         "earningsGrowth": null,
         "totalDebt": 28041811968,
         "totalCash": 712136576,
-        "marketCap": 270688387072
+        "marketCap": 270688403456
     },
     "JSPT.JK": {
         "forwardPE": null,
-        "dividendYield": 0.52,
+        "dividendYield": 0.51,
         "payoutRatio": 0.1266,
         "profitMargins": 0.14991,
         "returnOnEquity": 0.14833,
@@ -6769,7 +6769,7 @@
     },
     "SCCO.JK": {
         "forwardPE": null,
-        "dividendYield": 4.22,
+        "dividendYield": 4.27,
         "payoutRatio": 0.2793,
         "profitMargins": 0.04389,
         "returnOnEquity": 0.06184,
@@ -6793,7 +6793,7 @@
     },
     "CLPI.JK": {
         "forwardPE": null,
-        "dividendYield": 11.05,
+        "dividendYield": 11.09,
         "payoutRatio": 0.7046,
         "profitMargins": 0.06474,
         "returnOnEquity": 0.11017,
@@ -6853,7 +6853,7 @@
     },
     "LION.JK": {
         "forwardPE": null,
-        "dividendYield": 1.07,
+        "dividendYield": 1.02,
         "payoutRatio": null,
         "profitMargins": -0.02772,
         "returnOnEquity": -0.022,
@@ -6901,7 +6901,7 @@
     },
     "CEKA.JK": {
         "forwardPE": null,
-        "dividendYield": 5.93,
+        "dividendYield": 5.84,
         "payoutRatio": 0.2935,
         "profitMargins": 0.03365,
         "returnOnEquity": null,
@@ -6913,7 +6913,7 @@
     },
     "JTPE.JK": {
         "forwardPE": null,
-        "dividendYield": 7.23,
+        "dividendYield": 7.27,
         "payoutRatio": 0.6922,
         "profitMargins": 0.118319996,
         "returnOnEquity": null,
@@ -7035,12 +7035,12 @@
         "forwardPE": null,
         "dividendYield": null,
         "payoutRatio": 0.0,
-        "profitMargins": 0.00048000002,
-        "returnOnEquity": 0.00099,
-        "priceToBook": 0.20074911,
+        "profitMargins": -0.0036300002,
+        "returnOnEquity": -0.00735,
+        "priceToBook": 0.20422979,
         "earningsGrowth": null,
-        "totalDebt": 59852709888,
-        "totalCash": 365183434752,
+        "totalDebt": 51220000768,
+        "totalCash": 335845916672,
         "marketCap": 234472177664
     },
     "SPTO.JK": {
@@ -7105,7 +7105,7 @@
     },
     "BUDI.JK": {
         "forwardPE": null,
-        "dividendYield": 3.33,
+        "dividendYield": 3.3,
         "payoutRatio": 0.6686,
         "profitMargins": 0.01306,
         "returnOnEquity": 0.03304,
@@ -7117,7 +7117,7 @@
     },
     "TOSK.JK": {
         "forwardPE": null,
-        "dividendYield": 0.62,
+        "dividendYield": 0.63,
         "payoutRatio": null,
         "profitMargins": 0.00392,
         "returnOnEquity": 0.049000002,
@@ -7165,7 +7165,7 @@
     },
     "MUTU.JK": {
         "forwardPE": null,
-        "dividendYield": 2.02,
+        "dividendYield": 1.98,
         "payoutRatio": null,
         "profitMargins": 0.07918,
         "returnOnEquity": 0.12425,
@@ -7213,7 +7213,7 @@
     },
     "SCNP.JK": {
         "forwardPE": null,
-        "dividendYield": 0.57,
+        "dividendYield": 0.59,
         "payoutRatio": null,
         "profitMargins": 0.04506,
         "returnOnEquity": 0.02671,
@@ -7225,7 +7225,7 @@
     },
     "GDST.JK": {
         "forwardPE": null,
-        "dividendYield": 11.95,
+        "dividendYield": 11.74,
         "payoutRatio": 1.0149,
         "profitMargins": 0.02517,
         "returnOnEquity": 0.04543,
@@ -7381,7 +7381,7 @@
     },
     "ASDM.JK": {
         "forwardPE": null,
-        "dividendYield": 9.17,
+        "dividendYield": 9.09,
         "payoutRatio": 0.0,
         "profitMargins": 0.13504,
         "returnOnEquity": 0.08213,
@@ -7441,7 +7441,7 @@
     },
     "MDKI.JK": {
         "forwardPE": null,
-        "dividendYield": 4.26,
+        "dividendYield": 4.3,
         "payoutRatio": null,
         "profitMargins": 0.09825,
         "returnOnEquity": 0.03663,
@@ -7453,7 +7453,7 @@
     },
     "KMDS.JK": {
         "forwardPE": null,
-        "dividendYield": 7.3,
+        "dividendYield": 7.24,
         "payoutRatio": null,
         "profitMargins": 0.15373,
         "returnOnEquity": 0.26709,
@@ -7501,7 +7501,7 @@
     },
     "SDRA.JK": {
         "forwardPE": null,
-        "dividendYield": 2.74,
+        "dividendYield": 2.76,
         "payoutRatio": 0.3357,
         "profitMargins": 0.16472,
         "returnOnEquity": 0.01973,
@@ -7525,7 +7525,7 @@
     },
     "KBLM.JK": {
         "forwardPE": null,
-        "dividendYield": 5.26,
+        "dividendYield": 5.38,
         "payoutRatio": null,
         "profitMargins": 0.037750002,
         "returnOnEquity": 0.055370003,
@@ -7573,7 +7573,7 @@
     },
     "CRAB.JK": {
         "forwardPE": null,
-        "dividendYield": 0.79,
+        "dividendYield": 0.78,
         "payoutRatio": null,
         "profitMargins": 0.048850004,
         "returnOnEquity": 0.13799,
@@ -7669,7 +7669,7 @@
     },
     "BALI.JK": {
         "forwardPE": null,
-        "dividendYield": 3.97,
+        "dividendYield": 4.2,
         "payoutRatio": 1.2398,
         "profitMargins": 0.13793999,
         "returnOnEquity": 0.0636,
@@ -7681,7 +7681,7 @@
     },
     "RELF.JK": {
         "forwardPE": null,
-        "dividendYield": 2.17,
+        "dividendYield": 2.31,
         "payoutRatio": null,
         "profitMargins": 0.24212,
         "returnOnEquity": 0.05069,
@@ -7693,7 +7693,7 @@
     },
     "HYGN.JK": {
         "forwardPE": null,
-        "dividendYield": 1.48,
+        "dividendYield": 1.45,
         "payoutRatio": null,
         "profitMargins": 0.05751,
         "returnOnEquity": 0.12528,
@@ -7705,7 +7705,7 @@
     },
     "PTSN.JK": {
         "forwardPE": null,
-        "dividendYield": 1.16,
+        "dividendYield": 1.13,
         "payoutRatio": 0.16379999,
         "profitMargins": 0.05988,
         "returnOnEquity": 0.089770004,
@@ -7741,7 +7741,7 @@
     },
     "KUAS.JK": {
         "forwardPE": null,
-        "dividendYield": 4.23,
+        "dividendYield": 4.29,
         "payoutRatio": null,
         "profitMargins": 0.06098,
         "returnOnEquity": 0.072519995,
@@ -7777,7 +7777,7 @@
     },
     "CTBN.JK": {
         "forwardPE": null,
-        "dividendYield": 10.44,
+        "dividendYield": 10.39,
         "payoutRatio": 0.8157,
         "profitMargins": 0.119370006,
         "returnOnEquity": null,
@@ -7813,7 +7813,7 @@
     },
     "ARTA.JK": {
         "forwardPE": null,
-        "dividendYield": 0.89,
+        "dividendYield": 0.86,
         "payoutRatio": null,
         "profitMargins": 0.0515,
         "returnOnEquity": 0.041279998,
@@ -7837,7 +7837,7 @@
     },
     "MERK.JK": {
         "forwardPE": null,
-        "dividendYield": 6.09,
+        "dividendYield": 6.05,
         "payoutRatio": 0.59029996,
         "profitMargins": 0.12315,
         "returnOnEquity": 0.16839,
@@ -7969,7 +7969,7 @@
     },
     "TRIS.JK": {
         "forwardPE": null,
-        "dividendYield": 5.21,
+        "dividendYield": 5.29,
         "payoutRatio": null,
         "profitMargins": 0.034679998,
         "returnOnEquity": 0.11983,
@@ -8017,7 +8017,7 @@
     },
     "WEHA.JK": {
         "forwardPE": null,
-        "dividendYield": 5.22,
+        "dividendYield": 5.26,
         "payoutRatio": 0.6667,
         "profitMargins": 0.08835,
         "returnOnEquity": 0.11394,
@@ -8041,7 +8041,7 @@
     },
     "MEGA.JK": {
         "forwardPE": null,
-        "dividendYield": 2.72,
+        "dividendYield": 2.73,
         "payoutRatio": 0.3814,
         "profitMargins": 0.42333,
         "returnOnEquity": 0.13133,
@@ -8053,7 +8053,7 @@
     },
     "SHIP.JK": {
         "forwardPE": null,
-        "dividendYield": 1.76,
+        "dividendYield": 1.72,
         "payoutRatio": 0.84550005,
         "profitMargins": 0.111379996,
         "returnOnEquity": 0.12809,
@@ -8065,7 +8065,7 @@
     },
     "SMAR.JK": {
         "forwardPE": null,
-        "dividendYield": 2.78,
+        "dividendYield": 2.7,
         "payoutRatio": 0.2308,
         "profitMargins": 0.01949,
         "returnOnEquity": 0.084180005,
@@ -8149,7 +8149,7 @@
     },
     "WOMF.JK": {
         "forwardPE": null,
-        "dividendYield": 6.78,
+        "dividendYield": 6.74,
         "payoutRatio": 0.315,
         "profitMargins": 0.19892,
         "returnOnEquity": 0.13818,
@@ -8161,7 +8161,7 @@
     },
     "DVLA.JK": {
         "forwardPE": null,
-        "dividendYield": 8.25,
+        "dividendYield": 8.27,
         "payoutRatio": 0.7889,
         "profitMargins": 0.075840004,
         "returnOnEquity": 0.10752,
@@ -8173,7 +8173,7 @@
     },
     "BTPN.JK": {
         "forwardPE": 8.989341,
-        "dividendYield": 2.54,
+        "dividendYield": 2.52,
         "payoutRatio": 0.2175,
         "profitMargins": 0.18359,
         "returnOnEquity": 0.05628,
@@ -8185,7 +8185,7 @@
     },
     "SMKL.JK": {
         "forwardPE": null,
-        "dividendYield": 1.8,
+        "dividendYield": 1.76,
         "payoutRatio": null,
         "profitMargins": 0.00956,
         "returnOnEquity": 0.018760001,
@@ -8245,7 +8245,7 @@
     },
     "GHON.JK": {
         "forwardPE": null,
-        "dividendYield": 10.98,
+        "dividendYield": 11.04,
         "payoutRatio": null,
         "profitMargins": 0.40307,
         "returnOnEquity": 0.10958,
@@ -8281,7 +8281,7 @@
     },
     "DEPO.JK": {
         "forwardPE": null,
-        "dividendYield": 1.48,
+        "dividendYield": 1.45,
         "payoutRatio": 0.3048,
         "profitMargins": 0.03259,
         "returnOnEquity": 0.07287,
@@ -8317,7 +8317,7 @@
     },
     "IKBI.JK": {
         "forwardPE": null,
-        "dividendYield": 5.33,
+        "dividendYield": 5.38,
         "payoutRatio": 0.35169998,
         "profitMargins": 0.02927,
         "returnOnEquity": 0.097600006,
@@ -8329,7 +8329,7 @@
     },
     "MREI.JK": {
         "forwardPE": null,
-        "dividendYield": 1.51,
+        "dividendYield": 1.5,
         "payoutRatio": 0.3448,
         "profitMargins": 0.020060001,
         "returnOnEquity": 0.0297,
@@ -8341,7 +8341,7 @@
     },
     "MKAP.JK": {
         "forwardPE": null,
-        "dividendYield": 0.78,
+        "dividendYield": 0.79,
         "payoutRatio": null,
         "profitMargins": 0.11519,
         "returnOnEquity": 0.17205,
@@ -8353,7 +8353,7 @@
     },
     "BBLD.JK": {
         "forwardPE": null,
-        "dividendYield": 1.33,
+        "dividendYield": 1.32,
         "payoutRatio": 0.4749,
         "profitMargins": 0.117580004,
         "returnOnEquity": 0.03558,
@@ -8365,7 +8365,7 @@
     },
     "AMIN.JK": {
         "forwardPE": null,
-        "dividendYield": 3.48,
+        "dividendYield": 3.28,
         "payoutRatio": null,
         "profitMargins": 0.05263,
         "returnOnEquity": 0.11176,
@@ -8389,7 +8389,7 @@
     },
     "BYAN.JK": {
         "forwardPE": null,
-        "dividendYield": 2.14,
+        "dividendYield": 2.13,
         "payoutRatio": 0.9937,
         "profitMargins": 0.25370002,
         "returnOnEquity": 0.42097,
@@ -8425,7 +8425,7 @@
     },
     "AMOR.JK": {
         "forwardPE": 8.59375,
-        "dividendYield": 9.39,
+        "dividendYield": 9.43,
         "payoutRatio": 1.2576001,
         "profitMargins": 0.27148,
         "returnOnEquity": 0.24931,
@@ -8461,7 +8461,7 @@
     },
     "CBPE.JK": {
         "forwardPE": null,
-        "dividendYield": 0.44,
+        "dividendYield": 0.45,
         "payoutRatio": null,
         "profitMargins": 0.50883,
         "returnOnEquity": 0.16488001,
@@ -8545,7 +8545,7 @@
     },
     "DNET.JK": {
         "forwardPE": null,
-        "dividendYield": 0.06,
+        "dividendYield": 0.05,
         "payoutRatio": 0.060700003,
         "profitMargins": 0.76232004,
         "returnOnEquity": 0.083450004,
@@ -8605,7 +8605,7 @@
     },
     "TGKA.JK": {
         "forwardPE": null,
-        "dividendYield": 5.41,
+        "dividendYield": 5.5,
         "payoutRatio": 0.71089995,
         "profitMargins": 0.030669998,
         "returnOnEquity": 0.17473,
@@ -8713,7 +8713,7 @@
     },
     "AMFG.JK": {
         "forwardPE": null,
-        "dividendYield": 2.29,
+        "dividendYield": 2.32,
         "payoutRatio": 0.14899999,
         "profitMargins": 0.04502,
         "returnOnEquity": 0.05257,
@@ -8725,7 +8725,7 @@
     },
     "MSJA.JK": {
         "forwardPE": null,
-        "dividendYield": 4.0,
+        "dividendYield": 3.95,
         "payoutRatio": 0.5474,
         "profitMargins": 0.11689,
         "returnOnEquity": 0.095979996,
@@ -8749,7 +8749,7 @@
     },
     "IFSH.JK": {
         "forwardPE": null,
-        "dividendYield": 1.59,
+        "dividendYield": 1.61,
         "payoutRatio": 0.4728,
         "profitMargins": 0.061550003,
         "returnOnEquity": 0.083129995,
@@ -8761,7 +8761,7 @@
     },
     "AKPI.JK": {
         "forwardPE": null,
-        "dividendYield": 1.46,
+        "dividendYield": 1.45,
         "payoutRatio": 0.0,
         "profitMargins": -0.0011,
         "returnOnEquity": -0.0018600001,
@@ -8821,7 +8821,7 @@
     },
     "DPNS.JK": {
         "forwardPE": null,
-        "dividendYield": 1.62,
+        "dividendYield": 1.67,
         "payoutRatio": null,
         "profitMargins": 0.14601,
         "returnOnEquity": 0.02276,
@@ -8881,7 +8881,7 @@
     },
     "KBLI.JK": {
         "forwardPE": null,
-        "dividendYield": 5.67,
+        "dividendYield": 5.25,
         "payoutRatio": 0.32840002,
         "profitMargins": 0.05885,
         "returnOnEquity": 0.07613,
@@ -8917,7 +8917,7 @@
     },
     "JATI.JK": {
         "forwardPE": null,
-        "dividendYield": 0.37,
+        "dividendYield": 0.38,
         "payoutRatio": null,
         "profitMargins": 0.025940001,
         "returnOnEquity": 0.08509,
@@ -9037,7 +9037,7 @@
     },
     "KDSI.JK": {
         "forwardPE": null,
-        "dividendYield": 8.11,
+        "dividendYield": 8.01,
         "payoutRatio": null,
         "profitMargins": 0.02402,
         "returnOnEquity": 0.06542,
@@ -9073,7 +9073,7 @@
     },
     "INPP.JK": {
         "forwardPE": null,
-        "dividendYield": 2.88,
+        "dividendYield": 2.9,
         "payoutRatio": 0.1349,
         "profitMargins": 0.30599,
         "returnOnEquity": 0.092860006,
@@ -9181,7 +9181,7 @@
     },
     "BLUE.JK": {
         "forwardPE": null,
-        "dividendYield": 3.77,
+        "dividendYield": 3.43,
         "payoutRatio": null,
         "profitMargins": 0.09543,
         "returnOnEquity": 0.14286,
@@ -9193,7 +9193,7 @@
     },
     "SOSS.JK": {
         "forwardPE": null,
-        "dividendYield": 1.33,
+        "dividendYield": 1.44,
         "payoutRatio": null,
         "profitMargins": 0.0036000002,
         "returnOnEquity": 0.02536,
@@ -9241,7 +9241,7 @@
     },
     "TRST.JK": {
         "forwardPE": null,
-        "dividendYield": 1.06,
+        "dividendYield": 1.02,
         "payoutRatio": 0.0,
         "profitMargins": -0.00101,
         "returnOnEquity": -0.00085,
@@ -9277,7 +9277,7 @@
     },
     "TBMS.JK": {
         "forwardPE": null,
-        "dividendYield": 3.76,
+        "dividendYield": 3.98,
         "payoutRatio": null,
         "profitMargins": 0.0088599995,
         "returnOnEquity": 0.11253,
@@ -9493,7 +9493,7 @@
     },
     "NPGF.JK": {
         "forwardPE": null,
-        "dividendYield": 0.43,
+        "dividendYield": 0.45,
         "payoutRatio": 0.0,
         "profitMargins": 0.01783,
         "returnOnEquity": 0.01424,
@@ -9541,7 +9541,7 @@
     },
     "LIFE.JK": {
         "forwardPE": null,
-        "dividendYield": 1.33,
+        "dividendYield": 1.47,
         "payoutRatio": 1.0458,
         "profitMargins": 0.077989995,
         "returnOnEquity": 0.040949997,
@@ -9565,7 +9565,7 @@
     },
     "DMND.JK": {
         "forwardPE": null,
-        "dividendYield": 1.18,
+        "dividendYield": 1.19,
         "payoutRatio": 0.17950001,
         "profitMargins": 0.03645,
         "returnOnEquity": 0.0612,
@@ -9577,7 +9577,7 @@
     },
     "BBMD.JK": {
         "forwardPE": null,
-        "dividendYield": 1.61,
+        "dividendYield": 1.62,
         "payoutRatio": 0.3648,
         "profitMargins": 0.37644002,
         "returnOnEquity": 0.07439,
@@ -9649,7 +9649,7 @@
     },
     "TIFA.JK": {
         "forwardPE": null,
-        "dividendYield": 4.5,
+        "dividendYield": 4.43,
         "payoutRatio": 1.1936,
         "profitMargins": 0.40061,
         "returnOnEquity": 0.045539998,
@@ -10033,7 +10033,7 @@
     },
     "DUTI.JK": {
         "forwardPE": null,
-        "dividendYield": 9.0,
+        "dividendYield": 8.82,
         "payoutRatio": 1.5465,
         "profitMargins": 0.13766,
         "returnOnEquity": 0.05881,
@@ -10081,7 +10081,7 @@
     },
     "RDTX.JK": {
         "forwardPE": null,
-        "dividendYield": 3.52,
+        "dividendYield": 3.59,
         "payoutRatio": 0.38099998,
         "profitMargins": 0.5635,
         "returnOnEquity": 0.09729999,
@@ -10105,7 +10105,7 @@
     },
     "PMJS.JK": {
         "forwardPE": null,
-        "dividendYield": 2.69,
+        "dividendYield": 2.71,
         "payoutRatio": 0.4354,
         "profitMargins": 0.01128,
         "returnOnEquity": 0.03978,
@@ -10117,7 +10117,7 @@
     },
     "KDTN.JK": {
         "forwardPE": null,
-        "dividendYield": 0.76,
+        "dividendYield": 0.77,
         "payoutRatio": null,
         "profitMargins": 0.05668,
         "returnOnEquity": 0.027579999,
@@ -10129,7 +10129,7 @@
     },
     "IGAR.JK": {
         "forwardPE": null,
-        "dividendYield": 0.98,
+        "dividendYield": 0.97,
         "payoutRatio": 0.0862,
         "profitMargins": 0.05906,
         "returnOnEquity": 0.090150006,
@@ -10169,7 +10169,7 @@
         "payoutRatio": null,
         "profitMargins": 0.0128999995,
         "returnOnEquity": 0.00526,
-        "priceToBook": 0.53555703,
+        "priceToBook": 0.51788855,
         "earningsGrowth": null,
         "totalDebt": 0,
         "totalCash": 137774612480,
@@ -10189,7 +10189,7 @@
     },
     "SDPC.JK": {
         "forwardPE": null,
-        "dividendYield": 1.45,
+        "dividendYield": 1.46,
         "payoutRatio": 0.1389,
         "profitMargins": 0.00468,
         "returnOnEquity": 0.06082,
@@ -10237,7 +10237,7 @@
     },
     "MYOH.JK": {
         "forwardPE": null,
-        "dividendYield": 3.57,
+        "dividendYield": 3.6,
         "payoutRatio": 0.41799998,
         "profitMargins": 0.14372,
         "returnOnEquity": 0.15289,
@@ -10309,7 +10309,7 @@
     },
     "MTLA.JK": {
         "forwardPE": null,
-        "dividendYield": 2.57,
+        "dividendYield": 2.59,
         "payoutRatio": 0.1749,
         "profitMargins": 0.24347,
         "returnOnEquity": 0.100200005,
