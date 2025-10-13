@@ -3,11 +3,11 @@
         9.88
     ],
     "channel": {
-        "start_date": "2025-04-11 00:00:00",
-        "end_date": "2025-10-10 00:00:00",
-        "start_upper": 2.56,
-        "start_lower": -2.58,
-        "end_upper": 37.46,
-        "end_lower": 32.32
+        "start_date": "2025-04-14 00:00:00",
+        "end_date": "2025-10-13 00:00:00",
+        "start_upper": 2.55,
+        "start_lower": -2.61,
+        "end_upper": 37.9,
+        "end_lower": 32.73
     }
 }
