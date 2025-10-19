@@ -5787,12 +5787,12 @@
         "forwardPE": null,
         "dividendYield": null,
         "payoutRatio": 0.0,
-        "profitMargins": -0.42241,
+        "profitMargins": -0.37707,
         "returnOnEquity": null,
-        "priceToBook": -0.7991885,
+        "priceToBook": -0.79749703,
         "earningsGrowth": null,
-        "totalDebt": 3416127176704,
-        "totalCash": 49672245248,
+        "totalDebt": 3467193614336,
+        "totalCash": 44652793856,
         "marketCap": 1428315045888
     },
     "BPTR.JK": {
@@ -8122,30 +8122,6 @@
         "totalDebt": 6376073986048,
         "totalCash": 2220457984000,
         "marketCap": 129783593697280
-    },
-    "KIAS.JK": {
-        "forwardPE": null,
-        "dividendYield": null,
-        "payoutRatio": 0.0,
-        "profitMargins": -0.02753,
-        "returnOnEquity": -0.02094,
-        "priceToBook": 0.434324,
-        "earningsGrowth": null,
-        "totalDebt": 38000001024,
-        "totalCash": 41343000576,
-        "marketCap": 313511084032
-    },
-    "INTA.JK": {
-        "forwardPE": null,
-        "dividendYield": null,
-        "payoutRatio": 0.0,
-        "profitMargins": -0.11477,
-        "returnOnEquity": null,
-        "priceToBook": -0.08233429,
-        "earningsGrowth": null,
-        "totalDebt": 3176680128512,
-        "totalCash": 47052001280,
-        "marketCap": 153821003776
     },
     "GDST.JK": {
         "forwardPE": null,
