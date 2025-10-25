@@ -6,15 +6,15 @@
         6.04,
         6.96,
         8.02,
-        26.21,
+        25.8,
         42.08
     ],
     "channel": {
-        "start_date": "2025-04-25 00:00:00",
-        "end_date": "2025-10-23 00:00:00",
-        "start_upper": 3.37,
-        "start_lower": -1.4,
-        "end_upper": 35.62,
-        "end_lower": 30.85
+        "start_date": "2025-04-28 00:00:00",
+        "end_date": "2025-10-24 00:00:00",
+        "start_upper": 3.64,
+        "start_lower": -1.16,
+        "end_upper": 35.68,
+        "end_lower": 30.87
     }
 }
