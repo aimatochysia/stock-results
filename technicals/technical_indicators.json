@@ -15146,6 +15146,39 @@
             "rank6": "sma_100"
         }
     },
+    "DAYA.JK.json": {
+        "db": "stock-db-2",
+        "close": 1185.0,
+        "volume": 33700,
+        "relative_volume": 0.26,
+        "price_vs_sma_50_pct": 10.04,
+        "rsi_14": 61.34,
+        "rsi_overbought": 0,
+        "rsi_oversold": 0,
+        "atr_14": 65.15,
+        "atr_pct": 5.5,
+        "market_stage": "uptrend",
+        "sma_5": 1197.0,
+        "sma_5_diff_pct": -0.08,
+        "sma_10": 1192.5,
+        "sma_10_diff_pct": 0.0,
+        "sma_20": 1171.5,
+        "sma_20_diff_pct": 0.67,
+        "sma_50": 1076.9,
+        "sma_50_diff_pct": 0.31,
+        "sma_100": 1003.1,
+        "sma_100_diff_pct": 0.24,
+        "sma_200": 968.32,
+        "sma_200_diff_pct": 0.29,
+        "ma_alignment": {
+            "rank1": "sma_5",
+            "rank2": "sma_10",
+            "rank3": "sma_20",
+            "rank4": "sma_50",
+            "rank5": "sma_100",
+            "rank6": "sma_200"
+        }
+    },
     "RGAS.JK.json": {
         "db": "stock-db-3",
         "close": 98.0,
@@ -24356,8 +24389,8 @@
     "GOTO.JK.json": {
         "db": "stock-db-1",
         "close": 60.0,
-        "volume": 1960305808,
-        "relative_volume": 0.8,
+        "volume": 10550240400,
+        "relative_volume": 3.68,
         "price_vs_sma_50_pct": 6.31,
         "rsi_14": 64.79,
         "rsi_overbought": 0,
