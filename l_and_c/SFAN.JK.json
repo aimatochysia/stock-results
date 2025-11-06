@@ -37,11 +37,11 @@
         2019.77
     ],
     "channel": {
-        "start_date": "2025-05-09 00:00:00",
-        "end_date": "2025-11-05 00:00:00",
-        "start_upper": 1933.84,
-        "start_lower": 1900.62,
-        "end_upper": 1935.96,
-        "end_lower": 1902.75
+        "start_date": "2025-05-14 00:00:00",
+        "end_date": "2025-11-06 00:00:00",
+        "start_upper": 1933.95,
+        "start_lower": 1900.85,
+        "end_upper": 1935.99,
+        "end_lower": 1902.88
     }
 }
