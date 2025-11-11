@@ -5,15 +5,15 @@
         6.99,
         8.97,
         11.97,
-        22.14,
+        21.72,
         109.16
     ],
     "channel": {
-        "start_date": "2025-05-16 00:00:00",
-        "end_date": "2025-11-10 00:00:00",
-        "start_upper": -1.71,
-        "start_lower": -19.71,
-        "end_upper": 140.81,
-        "end_lower": 122.81
+        "start_date": "2025-05-19 00:00:00",
+        "end_date": "2025-11-11 00:00:00",
+        "start_upper": -1.33,
+        "start_lower": -19.55,
+        "end_upper": 142.33,
+        "end_lower": 124.11
     }
 }
