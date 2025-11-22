@@ -5,11 +5,11 @@
         128.2
     ],
     "channel": {
-        "start_date": "2025-05-28 00:00:00",
-        "end_date": "2025-11-20 00:00:00",
-        "start_upper": 102.06,
-        "start_lower": 86.78,
-        "end_upper": 111.03,
-        "end_lower": 95.76
+        "start_date": "2025-06-02 00:00:00",
+        "end_date": "2025-11-21 00:00:00",
+        "start_upper": 102.0,
+        "start_lower": 86.83,
+        "end_upper": 110.99,
+        "end_lower": 95.81
     }
 }
