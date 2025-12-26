@@ -1581,7 +1581,7 @@
         "earningsGrowth": 1.369,
         "totalDebt": 123491491840,
         "totalCash": 1499686400,
-        "marketCap": 296142897152
+        "marketCap": 296149319680
     },
     "EXCL.JK": {
         "forwardPE": 22.336054,
@@ -2433,7 +2433,7 @@
         "earningsGrowth": null,
         "totalDebt": 25375860064256,
         "totalCash": 1551812001792,
-        "marketCap": 2708433010688
+        "marketCap": 2712315625472
     },
     "SOFA.JK": {
         "forwardPE": null,
@@ -2841,7 +2841,7 @@
         "earningsGrowth": -0.205,
         "totalDebt": 582160128,
         "totalCash": 61954105344,
-        "marketCap": 379312373760
+        "marketCap": 379312537600
     },
     "CMNP.JK": {
         "forwardPE": null,
@@ -2853,7 +2853,7 @@
         "earningsGrowth": -0.416,
         "totalDebt": 6296969936896,
         "totalCash": 390912802816,
-        "marketCap": 9374896488448
+        "marketCap": 9363243663360
     },
     "CPRO.JK": {
         "forwardPE": null,
@@ -3669,7 +3669,7 @@
         "earningsGrowth": -0.05,
         "totalDebt": 615921728,
         "totalCash": 6909336576,
-        "marketCap": 527329787904
+        "marketCap": 527329853440
     },
     "LPCK.JK": {
         "forwardPE": 0.62589705,
@@ -4401,7 +4401,7 @@
         "earningsGrowth": null,
         "totalDebt": 5857377280,
         "totalCash": 1084055168,
-        "marketCap": 112566255616
+        "marketCap": 112566263808
     },
     "FMII.JK": {
         "forwardPE": null,
@@ -5217,7 +5217,7 @@
         "earningsGrowth": 0.23,
         "totalDebt": 39811198976,
         "totalCash": 36336545792,
-        "marketCap": 301821100032
+        "marketCap": 301821132800
     },
     "BEER.JK": {
         "forwardPE": null,
@@ -5673,7 +5673,7 @@
         "earningsGrowth": null,
         "totalDebt": 76840000,
         "totalCash": 9701000,
-        "marketCap": 1056748011520
+        "marketCap": 1155000041472
     },
     "MLIA.JK": {
         "forwardPE": null,
@@ -6393,7 +6393,7 @@
         "earningsGrowth": -0.753,
         "totalDebt": 13491650560,
         "totalCash": 76941557760,
-        "marketCap": 507260469248
+        "marketCap": 507262042112
     },
     "DADA.JK": {
         "forwardPE": null,
@@ -7347,12 +7347,12 @@
         "forwardPE": null,
         "dividendYield": null,
         "payoutRatio": 0.0,
-        "profitMargins": 0.71683,
+        "profitMargins": 0.71615,
         "returnOnEquity": 0.24911,
-        "priceToBook": 8.081544,
-        "earningsGrowth": null,
-        "totalDebt": 7207908864,
-        "totalCash": 12325538816,
+        "priceToBook": 6.9418387,
+        "earningsGrowth": 10.075,
+        "totalDebt": 9207909376,
+        "totalCash": 105173876736,
         "marketCap": 1255104315392
     },
     "KLIN.JK": {
@@ -7537,14 +7537,14 @@
     },
     "SOHO.JK": {
         "forwardPE": null,
-        "dividendYield": 2.77,
-        "payoutRatio": 0.8707,
-        "profitMargins": 0.05098,
-        "returnOnEquity": 0.19793,
-        "priceToBook": 6.450497,
-        "earningsGrowth": 0.584,
-        "totalDebt": 11272999936,
-        "totalCash": 649073000448,
+        "dividendYield": 2.59,
+        "payoutRatio": 0.5386,
+        "profitMargins": 0.053400002,
+        "returnOnEquity": 0.20634001,
+        "priceToBook": 6.1518707,
+        "earningsGrowth": 0.292,
+        "totalDebt": 9681000448,
+        "totalCash": 917241004032,
         "marketCap": 17514521165824
     },
     "EPMT.JK": {
@@ -7741,7 +7741,7 @@
     },
     "KKES.JK": {
         "forwardPE": null,
-        "dividendYield": 2.17,
+        "dividendYield": null,
         "payoutRatio": null,
         "profitMargins": -0.03129,
         "returnOnEquity": -0.09584,
