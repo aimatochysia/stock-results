@@ -601,7 +601,7 @@
     },
     "BRPT.JK": {
         "forwardPE": 116.49212,
-        "dividendYield": 0.05,
+        "dividendYield": null,
         "payoutRatio": 0.0,
         "profitMargins": 0.09752,
         "returnOnEquity": 0.35876,
@@ -5221,7 +5221,7 @@
     },
     "BEER.JK": {
         "forwardPE": null,
-        "dividendYield": 0.57,
+        "dividendYield": null,
         "payoutRatio": null,
         "profitMargins": 0.13864,
         "returnOnEquity": 0.03042,
@@ -5257,7 +5257,7 @@
     },
     "RAAM.JK": {
         "forwardPE": null,
-        "dividendYield": 3.2,
+        "dividendYield": null,
         "payoutRatio": 0.0,
         "profitMargins": -0.41588002,
         "returnOnEquity": -0.06389,
@@ -6205,7 +6205,7 @@
     },
     "UANG.JK": {
         "forwardPE": null,
-        "dividendYield": 7.25,
+        "dividendYield": null,
         "payoutRatio": 0.0,
         "profitMargins": 0.23201,
         "returnOnEquity": 0.15268,
@@ -8641,7 +8641,7 @@
     },
     "SPMA.JK": {
         "forwardPE": null,
-        "dividendYield": 4.72,
+        "dividendYield": null,
         "payoutRatio": 0.0,
         "profitMargins": 0.02118,
         "returnOnEquity": 0.02408,
@@ -10219,7 +10219,7 @@
         "returnOnEquity": 0.08759,
         "priceToBook": 3.5382128,
         "earningsGrowth": null,
-        "totalDebt": 0,
+        "totalDebt": 22910248,
         "totalCash": 101616525312,
         "marketCap": 3056293642240
     },
