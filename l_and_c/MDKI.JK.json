@@ -4,14 +4,14 @@
         160.62,
         169.84,
         184.91,
-        199.84
+        200.33
     ],
     "channel": {
-        "start_date": "2025-07-11 00:00:00",
+        "start_date": "2025-07-15 00:00:00",
         "end_date": "2026-01-02 00:00:00",
-        "start_upper": 166.79,
-        "start_lower": 138.28,
-        "end_upper": 229.89,
-        "end_lower": 201.38
+        "start_upper": 167.62,
+        "start_lower": 139.58,
+        "end_upper": 230.26,
+        "end_lower": 202.21
     }
 }
