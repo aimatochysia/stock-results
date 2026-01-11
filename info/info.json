@@ -3063,12 +3063,12 @@
         "forwardPE": null,
         "dividendYield": null,
         "payoutRatio": 0.0,
-        "profitMargins": 0.059710003,
-        "returnOnEquity": 0.062319998,
-        "priceToBook": 1.16179,
-        "earningsGrowth": -0.888,
-        "totalDebt": 57301102592,
-        "totalCash": 5105987072,
+        "profitMargins": -0.17747,
+        "returnOnEquity": -0.19775,
+        "priceToBook": 1.4302111,
+        "earningsGrowth": null,
+        "totalDebt": 46996455424,
+        "totalCash": 4233851904,
         "marketCap": 256705216512
     },
     "EMTK.JK": {
