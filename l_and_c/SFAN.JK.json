@@ -38,11 +38,11 @@
         1980.0
     ],
     "channel": {
-        "start_date": "2025-07-23 00:00:00",
-        "end_date": "2026-01-12 00:00:00",
-        "start_upper": 1924.31,
-        "start_lower": 1891.89,
-        "end_upper": 1959.11,
-        "end_lower": 1926.69
+        "start_date": "2025-07-24 00:00:00",
+        "end_date": "2026-01-13 00:00:00",
+        "start_upper": 1924.04,
+        "start_lower": 1891.72,
+        "end_upper": 1959.53,
+        "end_lower": 1927.21
     }
 }
