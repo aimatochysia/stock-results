@@ -1,16 +1,16 @@
 {
     "latest_levels": [
-        6.01,
-        12.93,
-        29.3,
-        49.67
+        5.97,
+        13.02,
+        29.17,
+        49.71
     ],
     "channel": {
-        "start_date": "2025-07-24 00:00:00",
-        "end_date": "2026-01-13 00:00:00",
-        "start_upper": 19.85,
-        "start_lower": 13.46,
-        "end_upper": 52.59,
-        "end_lower": 46.2
+        "start_date": "2025-07-25 00:00:00",
+        "end_date": "2026-01-14 00:00:00",
+        "start_upper": 19.93,
+        "start_lower": 13.36,
+        "end_upper": 53.78,
+        "end_lower": 47.21
     }
 }
