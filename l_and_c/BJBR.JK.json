@@ -3,15 +3,14 @@
         768.43,
         802.7,
         992.97,
-        1122.63,
         1198.56
     ],
     "channel": {
-        "start_date": "2025-07-29 00:00:00",
-        "end_date": "2026-01-19 00:00:00",
-        "start_upper": 797.09,
-        "start_lower": 743.29,
-        "end_upper": 837.13,
-        "end_lower": 783.32
+        "start_date": "2025-07-30 00:00:00",
+        "end_date": "2026-01-20 00:00:00",
+        "start_upper": 795.4,
+        "start_lower": 741.71,
+        "end_upper": 839.13,
+        "end_lower": 785.43
     }
 }
