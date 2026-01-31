@@ -1573,7 +1573,7 @@
     },
     "PART.JK": {
         "forwardPE": null,
-        "dividendYield": 1.5,
+        "dividendYield": 1.41,
         "payoutRatio": null,
         "profitMargins": 0.094119996,
         "returnOnEquity": 0.17682,
@@ -2233,7 +2233,7 @@
     },
     "MPIX.JK": {
         "forwardPE": null,
-        "dividendYield": 0.58,
+        "dividendYield": 0.51,
         "payoutRatio": null,
         "profitMargins": 0.00559,
         "returnOnEquity": 0.07022,
@@ -2241,7 +2241,7 @@
         "earningsGrowth": -0.823,
         "totalDebt": 3018147072,
         "totalCash": 12795411456,
-        "marketCap": 153131941888
+        "marketCap": 153132007424
     },
     "AISA.JK": {
         "forwardPE": null,
@@ -2304,7 +2304,7 @@
         "marketCap": 298023354368
     },
     "WIIM.JK": {
-        "forwardPE": 7.785836,
+        "forwardPE": 7.7430577,
         "dividendYield": 3.88,
         "payoutRatio": 0.35759997,
         "profitMargins": 0.11257,
@@ -2833,7 +2833,7 @@
     },
     "NAIK.JK": {
         "forwardPE": null,
-        "dividendYield": 2.7,
+        "dividendYield": 2.56,
         "payoutRatio": 0.2705,
         "profitMargins": 0.15429,
         "returnOnEquity": null,
@@ -2841,7 +2841,7 @@
         "earningsGrowth": -0.205,
         "totalDebt": 582160128,
         "totalCash": 61954105344,
-        "marketCap": 389303140352
+        "marketCap": 389303173120
     },
     "CMNP.JK": {
         "forwardPE": null,
@@ -3001,8 +3001,8 @@
     },
     "NISP.JK": {
         "forwardPE": null,
-        "dividendYield": 7.49,
-        "payoutRatio": 0.4991,
+        "dividendYield": 7.36,
+        "payoutRatio": 0.4809,
         "profitMargins": 0.37803,
         "returnOnEquity": 0.117860004,
         "priceToBook": 0.7725811,
@@ -3189,7 +3189,7 @@
         "earningsGrowth": null,
         "totalDebt": 166049005568,
         "totalCash": 3479000064,
-        "marketCap": 9533148626944
+        "marketCap": 9557970518016
     },
     "DOSS.JK": {
         "forwardPE": null,
@@ -3321,7 +3321,7 @@
         "earningsGrowth": -0.568,
         "totalDebt": 1697725184,
         "totalCash": 29814444032,
-        "marketCap": 364503629824
+        "marketCap": 364503662592
     },
     "SMSM.JK": {
         "forwardPE": 9.552223,
@@ -3669,7 +3669,7 @@
         "earningsGrowth": -0.05,
         "totalDebt": 615921728,
         "totalCash": 6909336576,
-        "marketCap": 499010600960
+        "marketCap": 499378159616
     },
     "LPCK.JK": {
         "forwardPE": 0.9010759,
@@ -4401,7 +4401,7 @@
         "earningsGrowth": null,
         "totalDebt": 5857377280,
         "totalCash": 1084055168,
-        "marketCap": 160811892736
+        "marketCap": 160812023808
     },
     "FMII.JK": {
         "forwardPE": null,
@@ -5193,7 +5193,7 @@
         "earningsGrowth": 0.689,
         "totalDebt": 93127860224,
         "totalCash": 274311904,
-        "marketCap": 421690277888
+        "marketCap": 421690310656
     },
     "PSGO.JK": {
         "forwardPE": null,
@@ -6238,6 +6238,18 @@
         "totalDebt": 421413421056,
         "totalCash": 25398241280,
         "marketCap": 150400008192
+    },
+    "ZATA.JK": {
+        "forwardPE": null,
+        "dividendYield": 0.06,
+        "payoutRatio": null,
+        "profitMargins": 0.0094,
+        "returnOnEquity": 0.00342,
+        "priceToBook": 1.8209046,
+        "earningsGrowth": null,
+        "totalDebt": 100255080448,
+        "totalCash": 7074738176,
+        "marketCap": 909072007168
     },
     "IKAI.JK": {
         "forwardPE": null,
@@ -8401,7 +8413,7 @@
     },
     "AMOR.JK": {
         "forwardPE": 7.34375,
-        "dividendYield": 8.55,
+        "dividendYield": 8.64,
         "payoutRatio": 1.2576001,
         "profitMargins": 0.29275,
         "returnOnEquity": 0.23954001,
@@ -8409,7 +8421,7 @@
         "earningsGrowth": 0.061,
         "totalDebt": 10145000448,
         "totalCash": 313276989440,
-        "marketCap": 831457394688
+        "marketCap": 829430366208
     },
     "YELO.JK": {
         "forwardPE": null,
