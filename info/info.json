@@ -1008,7 +1008,7 @@
         "marketCap": 8558833827840
     },
     "FORE.JK": {
-        "forwardPE": null,
+        "forwardPE": 23.3,
         "dividendYield": null,
         "payoutRatio": 0.0,
         "profitMargins": 0.056149997,
@@ -1215,12 +1215,12 @@
         "forwardPE": 13.105005,
         "dividendYield": 0.96,
         "payoutRatio": 0.1407,
-        "profitMargins": 0.32167998,
-        "returnOnEquity": 0.16002001,
-        "priceToBook": 2.2028491,
-        "earningsGrowth": 0.067,
-        "totalDebt": 7597090930688,
-        "totalCash": 38861988167680,
+        "profitMargins": 0.31919,
+        "returnOnEquity": 0.15604,
+        "priceToBook": 2.1130066,
+        "earningsGrowth": 0.053,
+        "totalDebt": 0,
+        "totalCash": 13241428213760,
         "marketCap": 109787635253248
     },
     "CPIN.JK": {
@@ -1512,7 +1512,7 @@
         "marketCap": 124684484608
     },
     "DSNG.JK": {
-        "forwardPE": 8.166738,
+        "forwardPE": 7.418856,
         "dividendYield": 1.67,
         "payoutRatio": 0.1591,
         "profitMargins": 0.13445,
@@ -3948,7 +3948,7 @@
         "marketCap": 163018326016
     },
     "KEEN.JK": {
-        "forwardPE": 103000.0,
+        "forwardPE": null,
         "dividendYield": 0.8,
         "payoutRatio": 0.5622,
         "profitMargins": 0.10223,
@@ -6984,7 +6984,7 @@
         "marketCap": 345880723456
     },
     "MDIY.JK": {
-        "forwardPE": 17.063372,
+        "forwardPE": 17.378841,
         "dividendYield": null,
         "payoutRatio": 0.0,
         "profitMargins": 0.14133,
