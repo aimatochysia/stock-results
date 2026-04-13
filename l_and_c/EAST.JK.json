@@ -3,14 +3,14 @@
         94.0,
         110.64,
         124.15,
-        136.9
+        136.6
     ],
     "channel": {
-        "start_date": "2025-10-08 00:00:00",
-        "end_date": "2026-04-10 00:00:00",
-        "start_upper": 100.55,
-        "start_lower": 89.98,
-        "end_upper": 97.8,
-        "end_lower": 87.23
+        "start_date": "2025-10-09 00:00:00",
+        "end_date": "2026-04-13 00:00:00",
+        "start_upper": 100.6,
+        "start_lower": 90.05,
+        "end_upper": 97.67,
+        "end_lower": 87.12
     }
 }
