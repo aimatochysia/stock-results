@@ -768,7 +768,7 @@
         "marketCap": 2959804727296
     },
     "HRTA.JK": {
-        "forwardPE": 7.222085,
+        "forwardPE": 7.3415184,
         "dividendYield": 0.72,
         "payoutRatio": 0.0988,
         "profitMargins": 0.021960001,
@@ -780,7 +780,7 @@
         "marketCap": 13493418852352
     },
     "TAPG.JK": {
-        "forwardPE": 9.170728,
+        "forwardPE": 8.3931675,
         "dividendYield": 8.27,
         "payoutRatio": 0.8871,
         "profitMargins": 0.3247,
@@ -876,7 +876,7 @@
         "marketCap": 6676952383488
     },
     "BRMS.JK": {
-        "forwardPE": 53.68227,
+        "forwardPE": 52.843502,
         "dividendYield": null,
         "payoutRatio": 0.0,
         "profitMargins": 0.20056,
@@ -1263,12 +1263,12 @@
         "forwardPE": 10.488272,
         "dividendYield": 6.76,
         "payoutRatio": 0.7985,
-        "profitMargins": 0.05373,
-        "returnOnEquity": 0.18677,
+        "profitMargins": 0.05264,
+        "returnOnEquity": 0.18943001,
         "priceToBook": 2.4106472,
-        "earningsGrowth": 0.089,
-        "totalDebt": 5712782032896,
-        "totalCash": 6404299554816,
+        "earningsGrowth": 0.161,
+        "totalDebt": 5529788743680,
+        "totalCash": 7283188170752,
         "marketCap": 29303657988096
     },
     "JPFA.JK": {
@@ -1332,7 +1332,7 @@
         "marketCap": 1546335420416
     },
     "WIFI.JK": {
-        "forwardPE": 7.8739243,
+        "forwardPE": 8.223233,
         "dividendYield": 0.09,
         "payoutRatio": 0.018,
         "profitMargins": 0.24620001,
@@ -1363,7 +1363,7 @@
         "returnOnEquity": 0.22972,
         "priceToBook": 2.6441116,
         "earningsGrowth": 0.037,
-        "totalDebt": 2143954010112,
+        "totalDebt": 2733053050880,
         "totalCash": 112486367887360,
         "marketCap": 744228846043136
     },
@@ -1911,12 +1911,12 @@
         "forwardPE": -466.66666,
         "dividendYield": null,
         "payoutRatio": 0.0,
-        "profitMargins": 0.19974001,
-        "returnOnEquity": 0.0469,
+        "profitMargins": 0.1992,
+        "returnOnEquity": 0.04336,
         "priceToBook": 2.3704305,
-        "earningsGrowth": 1.213,
-        "totalDebt": 15043000320,
-        "totalCash": 4517723111424,
+        "earningsGrowth": -0.376,
+        "totalDebt": 499999997952,
+        "totalCash": 4638305157120,
         "marketCap": 8284178219008
     },
     "BLES.JK": {
@@ -2235,12 +2235,12 @@
         "forwardPE": 95.26316,
         "dividendYield": null,
         "payoutRatio": 0.0,
-        "profitMargins": -1.6052,
-        "returnOnEquity": -0.15426,
+        "profitMargins": -1.54393,
+        "returnOnEquity": -0.15855,
         "priceToBook": 1.4831082,
-        "earningsGrowth": null,
-        "totalDebt": 214948855808,
-        "totalCash": 849795350528,
+        "earningsGrowth": -0.595,
+        "totalDebt": 1106406932480,
+        "totalCash": 418701836288,
         "marketCap": 4466143133696
     },
     "DOID.JK": {
@@ -2701,14 +2701,14 @@
     },
     "STAA.JK": {
         "forwardPE": null,
-        "dividendYield": 4.07,
-        "payoutRatio": 0.3741,
-        "profitMargins": 0.16612,
-        "returnOnEquity": 0.28307,
-        "priceToBook": 2.0819602,
-        "earningsGrowth": -0.048,
-        "totalDebt": 1791842975744,
-        "totalCash": 1987635052544,
+        "dividendYield": 4.45,
+        "payoutRatio": 0.37669998,
+        "profitMargins": 0.1521,
+        "returnOnEquity": 0.26591,
+        "priceToBook": 1.9884365,
+        "earningsGrowth": -0.036,
+        "totalDebt": 1575773011968,
+        "totalCash": 2517533982720,
         "marketCap": 13463263903744
     },
     "FILM.JK": {
@@ -3228,7 +3228,7 @@
         "marketCap": 2485329330176
     },
     "NSSS.JK": {
-        "forwardPE": 30.666666,
+        "forwardPE": 17.829458,
         "dividendYield": 0.33,
         "payoutRatio": 0.0,
         "profitMargins": 0.32169,
@@ -3713,7 +3713,7 @@
         "payoutRatio": null,
         "profitMargins": -0.68141997,
         "returnOnEquity": -0.29686,
-        "priceToBook": 9.358914,
+        "priceToBook": 9.372071,
         "earningsGrowth": null,
         "totalDebt": 0,
         "totalCash": 644854016,
@@ -3965,10 +3965,10 @@
         "payoutRatio": 0.2941,
         "profitMargins": 0.33762002,
         "returnOnEquity": 0.08299,
-        "priceToBook": 2.669621,
+        "priceToBook": 2.669617,
         "earningsGrowth": 0.166,
-        "totalDebt": 14479718875136,
-        "totalCash": 17607723843584,
+        "totalDebt": 14561472151552,
+        "totalCash": 18277617106944,
         "marketCap": 123016461680640
     },
     "SRSN.JK": {
@@ -6975,12 +6975,12 @@
         "forwardPE": null,
         "dividendYield": null,
         "payoutRatio": 0.0,
-        "profitMargins": 0.09899,
-        "returnOnEquity": 0.13041,
+        "profitMargins": 0.09308,
+        "returnOnEquity": 0.12465,
         "priceToBook": 1.8696203,
-        "earningsGrowth": 1.331,
-        "totalDebt": 129598185472,
-        "totalCash": 670021779456,
+        "earningsGrowth": -0.492,
+        "totalDebt": 126803550208,
+        "totalCash": 672858701824,
         "marketCap": 1364544061440
     },
     "FPNI.JK": {
@@ -8009,7 +8009,7 @@
         "payoutRatio": 0.0608,
         "profitMargins": 0.73980004,
         "returnOnEquity": 0.085710004,
-        "priceToBook": 9.074323,
+        "priceToBook": 8.794579,
         "earningsGrowth": 0.275,
         "totalDebt": 7084787105792,
         "totalCash": 1638687965184,
@@ -8477,7 +8477,7 @@
         "payoutRatio": null,
         "profitMargins": -0.33661,
         "returnOnEquity": -0.07857,
-        "priceToBook": 0.6524634,
+        "priceToBook": 0.70484835,
         "earningsGrowth": null,
         "totalDebt": 0,
         "totalCash": 693913728,
@@ -9423,12 +9423,12 @@
         "forwardPE": null,
         "dividendYield": null,
         "payoutRatio": 0.0,
-        "profitMargins": 0.11212,
-        "returnOnEquity": 0.06741,
+        "profitMargins": 0.11622,
+        "returnOnEquity": 0.07033,
         "priceToBook": 17.054152,
-        "earningsGrowth": 3.966,
-        "totalDebt": 5345343176704,
-        "totalCash": 1365806940160,
+        "earningsGrowth": 0.232,
+        "totalDebt": 5478167871488,
+        "totalCash": 1350944948224,
         "marketCap": 123553844297728
     },
     "MARI.JK": {
@@ -9534,7 +9534,7 @@
         "profitMargins": 0.36587003,
         "returnOnEquity": 0.24619,
         "priceToBook": 110.97226,
-        "earningsGrowth": -0.101,
+        "earningsGrowth": -0.098,
         "totalDebt": 2047801032704,
         "totalCash": 255826001920,
         "marketCap": 474365414080512
@@ -9783,12 +9783,12 @@
         "forwardPE": null,
         "dividendYield": null,
         "payoutRatio": 0.0,
-        "profitMargins": -2.87408,
-        "returnOnEquity": -0.10661,
+        "profitMargins": -1.58502,
+        "returnOnEquity": -0.09836,
         "priceToBook": 7.7475843,
-        "earningsGrowth": null,
-        "totalDebt": 444728999936,
-        "totalCash": 4626870960128,
+        "earningsGrowth": 2.689,
+        "totalDebt": 2614270099456,
+        "totalCash": 2536653979648,
         "marketCap": 25643114823680
     },
     "MPRO.JK": {
@@ -9848,7 +9848,7 @@
         "priceToBook": 4.3128085,
         "earningsGrowth": null,
         "totalDebt": 723325824,
-        "totalCash": 22733424640,
+        "totalCash": 22734456832,
         "marketCap": 157678174208
     },
     "APLI.JK": {
@@ -10227,12 +10227,12 @@
         "forwardPE": null,
         "dividendYield": 2.46,
         "payoutRatio": 0.3734,
-        "profitMargins": 0.011410001,
-        "returnOnEquity": 0.04559,
+        "profitMargins": 0.012259999,
+        "returnOnEquity": 0.051,
         "priceToBook": 0.65741897,
-        "earningsGrowth": 1.08,
-        "totalDebt": 141112410112,
-        "totalCash": 2064309944320,
+        "earningsGrowth": 0.973,
+        "totalDebt": 497440063488,
+        "totalCash": 1513236201472,
         "marketCap": 1788228009984
     },
     "LCGP.JK": {
