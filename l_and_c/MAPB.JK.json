@@ -7,11 +7,11 @@
         1907.12
     ],
     "channel": {
-        "start_date": "2025-10-30 00:00:00",
-        "end_date": "2026-05-05 00:00:00",
-        "start_upper": 1745.9,
-        "start_lower": 1501.36,
-        "end_upper": 1630.55,
-        "end_lower": 1386.02
+        "start_date": "2025-10-31 00:00:00",
+        "end_date": "2026-05-06 00:00:00",
+        "start_upper": 1745.14,
+        "start_lower": 1502.64,
+        "end_upper": 1627.27,
+        "end_lower": 1384.77
     }
 }
